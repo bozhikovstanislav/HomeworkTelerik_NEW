@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Appearance count", "04.A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppearenceTest", "Apearence\AppearenceTest.csproj", "{372D16E8-7487-48D4-A4E8-4919AC93F713}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Larger than neighbours", "05. Larger than neighbours\05. Larger than neighbours.csproj", "{9FBE867C-E210-4958-9F06-473B9A754E24}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{372D16E8-7487-48D4-A4E8-4919AC93F713}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{372D16E8-7487-48D4-A4E8-4919AC93F713}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{372D16E8-7487-48D4-A4E8-4919AC93F713}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FBE867C-E210-4958-9F06-473B9A754E24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FBE867C-E210-4958-9F06-473B9A754E24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FBE867C-E210-4958-9F06-473B9A754E24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FBE867C-E210-4958-9F06-473B9A754E24}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
