@@ -10,3 +10,9 @@ C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\C#Part2\Methods\Methods\obj\
 C:\Users\Stanislav\Documents\gitnewTortoisewc\HomeworkTelerik\C#Part2\Methods\Methods\bin\Debug\Methods.exe.config
 C:\Users\Stanislav\Documents\gitnewTortoisewc\HomeworkTelerik\C#Part2\Methods\Methods\obj\Debug\Methods.exe
 C:\Users\Stanislav\Documents\gitnewTortoisewc\HomeworkTelerik\C#Part2\Methods\Methods\obj\Debug\Methods.pdb
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\Methods\Methods\bin\Debug\Methods.exe.config
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\Methods\Methods\obj\Debug\Methods.exe
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\Methods\Methods\obj\Debug\Methods.pdb
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\Methods\Methods\bin\Debug\Methods.exe
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\Methods\Methods\bin\Debug\Methods.pdb
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\Methods\Methods\obj\Debug\O1.SayHello.csprojResolveAssemblyReference.cache

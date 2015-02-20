@@ -2,19 +2,17 @@
 
 
 
-class Program
+class EnglishDigit
 {
-    public void GetLatsEnglish(int integer)
+    public static void GetLatsEnglish(int integer)
     {
         string lastDigitGet= integer.ToString();
         int last = 0;
         for (int i = 0; i < lastDigitGet.Length; i++)
         {
-             last = lastDigitGet[lastDigitGet.Length - 1];
+             last = lastDigitGet[lastDigitGet.Length-1]-48;
         }
-
         switch (last)
-
         {
             case 0:
                 Console.WriteLine("zero");
@@ -59,6 +57,8 @@ class Program
          
          */
         Console.Write("Enter an integer A = ");
-        int; 
+        int number = int.Parse(Console.ReadLine());
+        GetLatsEnglish(number);
+
     }
 }
