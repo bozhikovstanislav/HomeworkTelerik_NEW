@@ -1,0 +1,5 @@
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Intro-Programming-Homework\Curent_Date_Time\bin\Debug\Curent_Date_Time.exe.config
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Intro-Programming-Homework\Curent_Date_Time\bin\Debug\Curent_Date_Time.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Intro-Programming-Homework\Curent_Date_Time\bin\Debug\Curent_Date_Time.pdb
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Intro-Programming-Homework\Curent_Date_Time\obj\Debug\Curent_Date_Time.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Intro-Programming-Homework\Curent_Date_Time\obj\Debug\Curent_Date_Time.pdb

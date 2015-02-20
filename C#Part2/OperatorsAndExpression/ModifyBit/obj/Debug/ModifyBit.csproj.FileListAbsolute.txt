@@ -1,0 +1,5 @@
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\OperatorsAndExpression\ModifyBit\bin\Debug\ModifyBit.exe.config
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\OperatorsAndExpression\ModifyBit\bin\Debug\ModifyBit.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\OperatorsAndExpression\ModifyBit\bin\Debug\ModifyBit.pdb
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\OperatorsAndExpression\ModifyBit\obj\Debug\ModifyBit.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\OperatorsAndExpression\ModifyBit\obj\Debug\ModifyBit.pdb

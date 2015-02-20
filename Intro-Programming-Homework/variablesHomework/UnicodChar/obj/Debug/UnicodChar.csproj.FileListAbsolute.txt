@@ -1,0 +1,6 @@
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\variablesHomework\UnicodChar\bin\Debug\UnicodChar.exe.config
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\variablesHomework\UnicodChar\bin\Debug\UnicodChar.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\variablesHomework\UnicodChar\bin\Debug\UnicodChar.pdb
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\variablesHomework\UnicodChar\obj\Debug\UnicodChar.csprojResolveAssemblyReference.cache
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\variablesHomework\UnicodChar\obj\Debug\UnicodChar.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\variablesHomework\UnicodChar\obj\Debug\UnicodChar.pdb

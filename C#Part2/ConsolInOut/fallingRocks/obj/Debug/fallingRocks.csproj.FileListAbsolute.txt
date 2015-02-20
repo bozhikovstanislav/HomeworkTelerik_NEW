@@ -1,0 +1,5 @@
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\ConsolInOut\fallingRocks\bin\Debug\fallingRocks.exe.config
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\ConsolInOut\fallingRocks\bin\Debug\fallingRocks.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\ConsolInOut\fallingRocks\bin\Debug\fallingRocks.pdb
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\ConsolInOut\fallingRocks\obj\Debug\fallingRocks.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\ConsolInOut\fallingRocks\obj\Debug\fallingRocks.pdb

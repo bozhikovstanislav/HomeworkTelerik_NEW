@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CodeSnippets>
+  xmlns="http://schemas.microsoft.com/VisualStudio/CodeSnippet">
+  <CodeSnippet Format="1.0.0">
+    <Header>
+      <Title>NumArryValid</Title>
+      <Shortcut>NumArryValid</Shortcut>
+      <SnippetTypes>
+        <SnippetType>Expansion</SnippetType>
+      </SnippetTypes>
+    </Header>
+    <Snippet>
+      <Code Language="CSharp">
+        <![CDATA[
+         
+              string[] splitnumbers = numbers.Split(' ');
+                //validating the nubers
+                int countNubers = splitnumbers.Length;
+              //Seting a array with 100 to colect our numbers
+              int[] inputIntegrs = new int[countnumbersInputed];
+                 for (int i = 0; i < splitnumbers.Length; i++)
+                   {
+                   //Validating the inoput numbers
+            inputIntegrs[i] = new int();
+            bool isInteger = int.TryParse(splitnumbers[i], out inputIntegrs[i]);
+            if (isInteger)
+            {
+                Console.WriteLine("Input integers {0} is OK ", splitnumbers[i]);
+            }
+            else
+            {
+                Console.WriteLine("Input integers {0} is NOT OK ", splitnumbers[i]);
+                Console.WriteLine("The program will now exit :)");
+                return;
+            }
+            
+        } ]]>
+      </Code>
+
+    </Snippet>
+
+  </CodeSnippet>
+</CodeSnippets>
+
+
+
+
+
+
+
+

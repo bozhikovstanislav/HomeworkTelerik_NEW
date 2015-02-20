@@ -1,0 +1,11 @@
+c:\users\stanislav\documents\visual studio 2013\Projects\Intro-Programming-Homework\Numbers\bin\Debug\Numbers.exe.config
+c:\users\stanislav\documents\visual studio 2013\Projects\Intro-Programming-Homework\Numbers\bin\Debug\Numbers.exe
+c:\users\stanislav\documents\visual studio 2013\Projects\Intro-Programming-Homework\Numbers\bin\Debug\Numbers.pdb
+c:\users\stanislav\documents\visual studio 2013\Projects\Intro-Programming-Homework\Numbers\obj\Debug\Numbers.exe
+c:\users\stanislav\documents\visual studio 2013\Projects\Intro-Programming-Homework\Numbers\obj\Debug\Numbers.pdb
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Intro-Programming-Homework\Numbers\bin\Debug\Numbers.exe.config
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Intro-Programming-Homework\Numbers\bin\Debug\Numbers.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Intro-Programming-Homework\Numbers\bin\Debug\Numbers.pdb
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Intro-Programming-Homework\Numbers\obj\Debug\Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Intro-Programming-Homework\Numbers\obj\Debug\Numbers.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Intro-Programming-Homework\Numbers\obj\Debug\Numbers.pdb

@@ -1,0 +1,6 @@
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\variablesHomework\Boolean\bin\Debug\Boolean.exe.config
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\variablesHomework\Boolean\bin\Debug\Boolean.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\variablesHomework\Boolean\bin\Debug\Boolean.pdb
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\variablesHomework\Boolean\obj\Debug\Boolean.csprojResolveAssemblyReference.cache
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\variablesHomework\Boolean\obj\Debug\Boolean.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\variablesHomework\Boolean\obj\Debug\Boolean.pdb

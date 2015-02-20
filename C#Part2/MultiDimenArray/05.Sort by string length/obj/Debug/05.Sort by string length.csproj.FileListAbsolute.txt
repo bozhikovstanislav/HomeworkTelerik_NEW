@@ -1,0 +1,7 @@
+C:\Users\Stanislav\Documents\GitHub\C#Part2\MultiDimenArray\05.Sort by string length\bin\Debug\05.Sort by string length.exe.config
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\C#Part2\MultiDimenArray\05.Sort by string length\bin\Debug\05.Sort by string length.exe.config
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\C#Part2\MultiDimenArray\05.Sort by string length\bin\Debug\05.Sort by string length.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\C#Part2\MultiDimenArray\05.Sort by string length\bin\Debug\05.Sort by string length.pdb
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\C#Part2\MultiDimenArray\05.Sort by string length\obj\Debug\05.Sort by string length.csprojResolveAssemblyReference.cache
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\C#Part2\MultiDimenArray\05.Sort by string length\obj\Debug\05.Sort by string length.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\C#Part2\MultiDimenArray\05.Sort by string length\obj\Debug\05.Sort by string length.pdb

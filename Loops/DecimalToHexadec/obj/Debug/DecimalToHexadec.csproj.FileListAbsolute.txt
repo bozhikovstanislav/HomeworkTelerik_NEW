@@ -1,0 +1,5 @@
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Loops\DecimalToHexadec\bin\Debug\DecimalToHexadec.exe.config
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Loops\DecimalToHexadec\bin\Debug\DecimalToHexadec.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Loops\DecimalToHexadec\bin\Debug\DecimalToHexadec.pdb
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Loops\DecimalToHexadec\obj\Debug\DecimalToHexadec.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Loops\DecimalToHexadec\obj\Debug\DecimalToHexadec.pdb

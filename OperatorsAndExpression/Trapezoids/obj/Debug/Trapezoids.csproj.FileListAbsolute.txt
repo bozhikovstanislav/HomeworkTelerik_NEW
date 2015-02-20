@@ -1,0 +1,5 @@
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\OperatorsAndExpression\Trapezoids\bin\Debug\Trapezoids.exe.config
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\OperatorsAndExpression\Trapezoids\bin\Debug\Trapezoids.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\OperatorsAndExpression\Trapezoids\bin\Debug\Trapezoids.pdb
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\OperatorsAndExpression\Trapezoids\obj\Debug\Trapezoids.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\OperatorsAndExpression\Trapezoids\obj\Debug\Trapezoids.pdb

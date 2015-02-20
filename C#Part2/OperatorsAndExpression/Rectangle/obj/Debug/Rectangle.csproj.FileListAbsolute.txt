@@ -1,0 +1,6 @@
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\OperatorsAndExpression\Rectangle\bin\Debug\Rectangle.exe.config
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\OperatorsAndExpression\Rectangle\bin\Debug\Rectangle.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\OperatorsAndExpression\Rectangle\bin\Debug\Rectangle.pdb
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\OperatorsAndExpression\Rectangle\obj\Debug\Rectangle.csprojResolveAssemblyReference.cache
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\OperatorsAndExpression\Rectangle\obj\Debug\Rectangle.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\OperatorsAndExpression\Rectangle\obj\Debug\Rectangle.pdb

@@ -1,0 +1,5 @@
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\ConditionStatment\ConditionStatment\bin\Debug\ConditionStatment.exe.config
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\ConditionStatment\ConditionStatment\bin\Debug\ConditionStatment.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\ConditionStatment\ConditionStatment\bin\Debug\ConditionStatment.pdb
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\ConditionStatment\ConditionStatment\obj\Debug\ConditionStatment.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\ConditionStatment\ConditionStatment\obj\Debug\ConditionStatment.pdb

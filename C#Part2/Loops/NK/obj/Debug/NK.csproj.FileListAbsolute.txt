@@ -1,0 +1,6 @@
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Loops\NK\bin\Debug\NK.exe.config
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Loops\NK\bin\Debug\NK.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Loops\NK\bin\Debug\NK.pdb
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Loops\NK\obj\Debug\NK.csprojResolveAssemblyReference.cache
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Loops\NK\obj\Debug\NK.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Loops\NK\obj\Debug\NK.pdb

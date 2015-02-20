@@ -1,0 +1,5 @@
+c:\users\stanislav\documents\visual studio 2013\Projects\Intro-Programming-Homework\SqareRoot\bin\Debug\SqareRoot.exe.config
+c:\users\stanislav\documents\visual studio 2013\Projects\Intro-Programming-Homework\SqareRoot\bin\Debug\SqareRoot.exe
+c:\users\stanislav\documents\visual studio 2013\Projects\Intro-Programming-Homework\SqareRoot\bin\Debug\SqareRoot.pdb
+c:\users\stanislav\documents\visual studio 2013\Projects\Intro-Programming-Homework\SqareRoot\obj\Debug\SqareRoot.exe
+c:\users\stanislav\documents\visual studio 2013\Projects\Intro-Programming-Homework\SqareRoot\obj\Debug\SqareRoot.pdb

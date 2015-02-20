@@ -1,0 +1,5 @@
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\variablesHomework\ComparingFloats\bin\Debug\ComparingFloats.exe.config
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\variablesHomework\ComparingFloats\bin\Debug\ComparingFloats.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\variablesHomework\ComparingFloats\bin\Debug\ComparingFloats.pdb
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\variablesHomework\ComparingFloats\obj\Debug\ComparingFloats.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\variablesHomework\ComparingFloats\obj\Debug\ComparingFloats.pdb

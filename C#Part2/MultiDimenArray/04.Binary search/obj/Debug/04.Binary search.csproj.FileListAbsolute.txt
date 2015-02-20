@@ -1,0 +1,6 @@
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\C#Part2\MultiDimenArray\04.Binary search\bin\Debug\04.Binary search.exe.config
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\C#Part2\MultiDimenArray\04.Binary search\bin\Debug\04.Binary search.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\C#Part2\MultiDimenArray\04.Binary search\bin\Debug\04.Binary search.pdb
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\C#Part2\MultiDimenArray\04.Binary search\obj\Debug\04.Binary search.csprojResolveAssemblyReference.cache
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\C#Part2\MultiDimenArray\04.Binary search\obj\Debug\04.Binary search.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\C#Part2\MultiDimenArray\04.Binary search\obj\Debug\04.Binary search.pdb

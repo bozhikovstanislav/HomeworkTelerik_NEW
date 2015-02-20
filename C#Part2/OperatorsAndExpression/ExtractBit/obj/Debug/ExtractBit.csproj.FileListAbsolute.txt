@@ -1,0 +1,5 @@
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\OperatorsAndExpression\ExtractBit\bin\Debug\ExtractBit.exe.config
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\OperatorsAndExpression\ExtractBit\bin\Debug\ExtractBit.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\OperatorsAndExpression\ExtractBit\bin\Debug\ExtractBit.pdb
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\OperatorsAndExpression\ExtractBit\obj\Debug\ExtractBit.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\OperatorsAndExpression\ExtractBit\obj\Debug\ExtractBit.pdb

@@ -1,0 +1,6 @@
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\variablesHomework\Hexadecimal\bin\Debug\Hexadecimal.exe.config
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\variablesHomework\Hexadecimal\bin\Debug\Hexadecimal.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\variablesHomework\Hexadecimal\bin\Debug\Hexadecimal.pdb
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\variablesHomework\Hexadecimal\obj\Debug\Hexadecimal.csprojResolveAssemblyReference.cache
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\variablesHomework\Hexadecimal\obj\Debug\Hexadecimal.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\variablesHomework\Hexadecimal\obj\Debug\Hexadecimal.pdb

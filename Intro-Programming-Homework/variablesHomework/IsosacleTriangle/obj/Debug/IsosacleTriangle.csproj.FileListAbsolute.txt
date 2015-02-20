@@ -1,0 +1,6 @@
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\variablesHomework\IsosacleTriangle\bin\Debug\IsosacleTriangle.exe.config
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\variablesHomework\IsosacleTriangle\bin\Debug\IsosacleTriangle.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\variablesHomework\IsosacleTriangle\bin\Debug\IsosacleTriangle.pdb
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\variablesHomework\IsosacleTriangle\obj\Debug\IsosacleTriangle.csprojResolveAssemblyReference.cache
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\variablesHomework\IsosacleTriangle\obj\Debug\IsosacleTriangle.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\variablesHomework\IsosacleTriangle\obj\Debug\IsosacleTriangle.pdb

@@ -1,0 +1,5 @@
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Loops\RandomNumbers\bin\Debug\RandomNumbers.exe.config
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Loops\RandomNumbers\bin\Debug\RandomNumbers.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Loops\RandomNumbers\bin\Debug\RandomNumbers.pdb
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Loops\RandomNumbers\obj\Debug\RandomNumbers.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Loops\RandomNumbers\obj\Debug\RandomNumbers.pdb

@@ -1,0 +1,6 @@
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\ConsolInOut\ConsolInOut\bin\Debug\ConsolInOut.exe.config
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\ConsolInOut\ConsolInOut\bin\Debug\ConsolInOut.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\ConsolInOut\ConsolInOut\bin\Debug\ConsolInOut.pdb
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\ConsolInOut\ConsolInOut\obj\Debug\ConsolInOut.csprojResolveAssemblyReference.cache
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\ConsolInOut\ConsolInOut\obj\Debug\ConsolInOut.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\ConsolInOut\ConsolInOut\obj\Debug\ConsolInOut.pdb

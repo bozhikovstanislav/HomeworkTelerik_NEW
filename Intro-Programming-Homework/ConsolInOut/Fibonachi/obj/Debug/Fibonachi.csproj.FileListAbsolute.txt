@@ -1,0 +1,5 @@
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\ConsolInOut\Fibonachi\bin\Debug\Fibonachi.exe.config
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\ConsolInOut\Fibonachi\bin\Debug\Fibonachi.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\ConsolInOut\Fibonachi\bin\Debug\Fibonachi.pdb
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\ConsolInOut\Fibonachi\obj\Debug\Fibonachi.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\ConsolInOut\Fibonachi\obj\Debug\Fibonachi.pdb

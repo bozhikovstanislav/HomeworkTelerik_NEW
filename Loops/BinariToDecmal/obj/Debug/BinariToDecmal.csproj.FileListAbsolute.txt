@@ -1,0 +1,5 @@
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Loops\BinariToDecmal\bin\Debug\BinariToDecmal.exe.config
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Loops\BinariToDecmal\bin\Debug\BinariToDecmal.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Loops\BinariToDecmal\bin\Debug\BinariToDecmal.pdb
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Loops\BinariToDecmal\obj\Debug\BinariToDecmal.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Loops\BinariToDecmal\obj\Debug\BinariToDecmal.pdb

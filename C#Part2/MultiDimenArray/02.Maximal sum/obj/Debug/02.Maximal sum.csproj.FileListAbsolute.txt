@@ -1,0 +1,6 @@
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\C#Part2\MultiDimenArray\02.Maximal sum\bin\Debug\02.Maximal sum.exe.config
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\C#Part2\MultiDimenArray\02.Maximal sum\bin\Debug\02.Maximal sum.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\C#Part2\MultiDimenArray\02.Maximal sum\bin\Debug\02.Maximal sum.pdb
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\C#Part2\MultiDimenArray\02.Maximal sum\obj\Debug\02.Maximal sum.csprojResolveAssemblyReference.cache
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\C#Part2\MultiDimenArray\02.Maximal sum\obj\Debug\02.Maximal sum.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\C#Part2\MultiDimenArray\02.Maximal sum\obj\Debug\02.Maximal sum.pdb

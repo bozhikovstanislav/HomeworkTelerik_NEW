@@ -1,0 +1,5 @@
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\ConsolInOut\SumOnNNumbers\bin\Debug\SumOnNNumbers.exe.config
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\ConsolInOut\SumOnNNumbers\bin\Debug\SumOnNNumbers.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\ConsolInOut\SumOnNNumbers\bin\Debug\SumOnNNumbers.pdb
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\ConsolInOut\SumOnNNumbers\obj\Debug\SumOnNNumbers.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\ConsolInOut\SumOnNNumbers\obj\Debug\SumOnNNumbers.pdb

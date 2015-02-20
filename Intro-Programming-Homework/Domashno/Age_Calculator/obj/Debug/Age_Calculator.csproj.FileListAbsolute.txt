@@ -1,0 +1,5 @@
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Intro-Programming-Homework\Age_Calculator\bin\Debug\Age_Calculator.exe.config
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Intro-Programming-Homework\Age_Calculator\bin\Debug\Age_Calculator.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Intro-Programming-Homework\Age_Calculator\bin\Debug\Age_Calculator.pdb
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Intro-Programming-Homework\Age_Calculator\obj\Debug\Age_Calculator.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Intro-Programming-Homework\Age_Calculator\obj\Debug\Age_Calculator.pdb

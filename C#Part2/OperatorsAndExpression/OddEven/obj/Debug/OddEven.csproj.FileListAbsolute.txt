@@ -1,0 +1,6 @@
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\OperatorsAndExpression\OddEven\bin\Debug\OddEven.exe.config
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\OperatorsAndExpression\OddEven\bin\Debug\OddEven.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\OperatorsAndExpression\OddEven\bin\Debug\OddEven.pdb
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\OperatorsAndExpression\OddEven\obj\Debug\OddEven.csprojResolveAssemblyReference.cache
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\OperatorsAndExpression\OddEven\obj\Debug\OddEven.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\OperatorsAndExpression\OddEven\obj\Debug\OddEven.pdb

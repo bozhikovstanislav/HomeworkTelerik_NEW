@@ -1,0 +1,5 @@
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\variablesHomework\EmployData\bin\Debug\EmployData.exe.config
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\variablesHomework\EmployData\bin\Debug\EmployData.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\variablesHomework\EmployData\bin\Debug\EmployData.pdb
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\variablesHomework\EmployData\obj\Debug\EmployData.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\variablesHomework\EmployData\obj\Debug\EmployData.pdb

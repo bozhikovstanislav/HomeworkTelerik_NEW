@@ -1,0 +1,21 @@
+Eclipse
+ It contains a base workspace and an extensible plug-in system for customizing the environment.
+ Written mostly in Java, Eclipse can be used to develop applications.There are many Addons for Eclipse.
+ Can be use for programing with C++; Java , Python, fortran ...
+
+ActiveState Komodo:
+Is a text edtior for dynamic programing languadges.
+It supports Python, perle, PHP, Ruby TCL ....
+
+
+IntelliJIDEA:
+IntelliJ IDEA is a Java integrated development environment (IDE) for developing computer software.
+it supports : Groovy,XML/XSL,Java Javascript,php, Pyhton
+
+NetBeans:
+NetBeans is an integrated development environment (IDE) for developing primarily with Java, but also with other languages, in particular PHP, C/C++, and HTML5.
+ It is also an application platform framework for Java desktop applications and others.
+
+
+PyCharm: IDE mainly for programing with python.it is free . You can use it also for HTML.
+

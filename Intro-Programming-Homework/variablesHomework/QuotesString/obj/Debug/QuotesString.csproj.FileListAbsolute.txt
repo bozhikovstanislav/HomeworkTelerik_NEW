@@ -1,0 +1,6 @@
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\variablesHomework\QuotesString\bin\Debug\QuotesString.exe.config
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\variablesHomework\QuotesString\bin\Debug\QuotesString.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\variablesHomework\QuotesString\bin\Debug\QuotesString.pdb
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\variablesHomework\QuotesString\obj\Debug\QuotesString.csprojResolveAssemblyReference.cache
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\variablesHomework\QuotesString\obj\Debug\QuotesString.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\variablesHomework\QuotesString\obj\Debug\QuotesString.pdb

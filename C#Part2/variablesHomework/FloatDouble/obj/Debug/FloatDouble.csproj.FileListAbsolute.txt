@@ -1,0 +1,6 @@
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\variablesHomework\FloatDouble\bin\Debug\FloatDouble.exe.config
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\variablesHomework\FloatDouble\bin\Debug\FloatDouble.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\variablesHomework\FloatDouble\bin\Debug\FloatDouble.pdb
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\variablesHomework\FloatDouble\obj\Debug\FloatDouble.csprojResolveAssemblyReference.cache
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\variablesHomework\FloatDouble\obj\Debug\FloatDouble.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\variablesHomework\FloatDouble\obj\Debug\FloatDouble.pdb

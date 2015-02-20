@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CodeSnippets>
+  xmlns="http://schemas.microsoft.com/VisualStudio/CodeSnippet">
+  <CodeSnippet Format="1.0.0">
+    <Header>
+      <Title>VarN</Title>
+      <Shortcut>VarN</Shortcut>
+      <SnippetTypes>
+        <SnippetType>Expansion</SnippetType>
+      </SnippetTypes>
+    </Header>
+      <Snippet>
+        <Code Language="CSharp">
+        <![CDATA[
+         
+        Console.Write("ENTER a number N =");
+        string N = Console.ReadLine();
+        int numberN;
+        if (N == "")
+        {
+            Console.WriteLine("Nullable value is enter the program will exit");
+            return;
+        }
+        else
+        {
+
+            do
+            {
+                Console.WriteLine("The number N is Corect ");
+
+            } while (!int.TryParse(N, out numberN));
+        }
+
+        Console.Write("\n"); ]]>
+
+
+        </Code>
+
+      </Snippet>
+   
+  </CodeSnippet>
+</CodeSnippets>

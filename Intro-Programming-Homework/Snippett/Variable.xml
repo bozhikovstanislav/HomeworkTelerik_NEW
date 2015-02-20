@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CodeSnippets>
+  xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+  <CodeSnippet Format="1.0.0">
+    <Header>
+      <Snippet>
+        <Code Languadge="C#">
+          
+         <![CDATA[
+         
+        Console.Write("ENTER a number N =");
+        string N = Console.ReadLine();
+        int numberN;
+        if (N == "")
+        {
+            Console.WriteLine("Nullable value is enter the program will exit");
+            return;
+        }
+        else
+        {
+
+            do
+            {
+                Console.WriteLine("The number N is Corect ");
+
+            } while (!int.TryParse(N, out numberN));
+        }
+
+        Console.Write("\n"); ]]>
+        
+        
+        </Code>
+
+      </Snippet>
+    </Header>
+  </CodeSnippet>
+</CodeSnippets>

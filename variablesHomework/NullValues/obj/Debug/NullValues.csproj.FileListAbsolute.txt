@@ -1,0 +1,5 @@
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\variablesHomework\NullValues\bin\Debug\NullValues.exe.config
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\variablesHomework\NullValues\bin\Debug\NullValues.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\variablesHomework\NullValues\bin\Debug\NullValues.pdb
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\variablesHomework\NullValues\obj\Debug\NullValues.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\variablesHomework\NullValues\obj\Debug\NullValues.pdb

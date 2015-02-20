@@ -1,0 +1,11 @@
+c:\users\stanislav\documents\visual studio 2013\Projects\Intro-Programming-Homework\PrintMyName\bin\Debug\PrintMyName.exe.config
+c:\users\stanislav\documents\visual studio 2013\Projects\Intro-Programming-Homework\PrintMyName\bin\Debug\PrintMyName.exe
+c:\users\stanislav\documents\visual studio 2013\Projects\Intro-Programming-Homework\PrintMyName\bin\Debug\PrintMyName.pdb
+c:\users\stanislav\documents\visual studio 2013\Projects\Intro-Programming-Homework\PrintMyName\obj\Debug\PrintMyName.exe
+c:\users\stanislav\documents\visual studio 2013\Projects\Intro-Programming-Homework\PrintMyName\obj\Debug\PrintMyName.pdb
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Intro-Programming-Homework\PrintMyName\bin\Debug\PrintMyName.exe.config
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Intro-Programming-Homework\PrintMyName\bin\Debug\PrintMyName.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Intro-Programming-Homework\PrintMyName\bin\Debug\PrintMyName.pdb
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Intro-Programming-Homework\PrintMyName\obj\Debug\PrintMyName.csprojResolveAssemblyReference.cache
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Intro-Programming-Homework\PrintMyName\obj\Debug\PrintMyName.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Intro-Programming-Homework\PrintMyName\obj\Debug\PrintMyName.pdb

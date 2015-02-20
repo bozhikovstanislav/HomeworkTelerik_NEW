@@ -1,0 +1,6 @@
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\OperatorsAndExpression\ThirdDigit7\bin\Debug\ThirdDigit7.exe.config
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\OperatorsAndExpression\ThirdDigit7\bin\Debug\ThirdDigit7.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\OperatorsAndExpression\ThirdDigit7\bin\Debug\ThirdDigit7.pdb
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\OperatorsAndExpression\ThirdDigit7\obj\Debug\ThirdDigit7.csprojResolveAssemblyReference.cache
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\OperatorsAndExpression\ThirdDigit7\obj\Debug\ThirdDigit7.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\OperatorsAndExpression\ThirdDigit7\obj\Debug\ThirdDigit7.pdb

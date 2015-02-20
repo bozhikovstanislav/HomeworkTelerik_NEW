@@ -1,0 +1,6 @@
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\OperatorsAndExpression\PrimeNumberCheck\bin\Debug\PrimeNumberCheck.exe.config
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\OperatorsAndExpression\PrimeNumberCheck\bin\Debug\PrimeNumberCheck.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\OperatorsAndExpression\PrimeNumberCheck\bin\Debug\PrimeNumberCheck.pdb
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\OperatorsAndExpression\PrimeNumberCheck\obj\Debug\PrimeNumberCheck.csprojResolveAssemblyReference.cache
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\OperatorsAndExpression\PrimeNumberCheck\obj\Debug\PrimeNumberCheck.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\OperatorsAndExpression\PrimeNumberCheck\obj\Debug\PrimeNumberCheck.pdb

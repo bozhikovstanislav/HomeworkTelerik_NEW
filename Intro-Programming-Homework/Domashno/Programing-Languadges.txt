@@ -1,0 +1,35 @@
+PHP
+
+Is a script languadge which is desine for a web aprograming. 
+Similar to C# in the Object Oriented functionality.
+Difer in PHP there is no CLR. and compiler - it is a script languadge.
+
+Java:
+Is a class-basd, object-oriented programing languadge, which makes it similar to C#
+also java have CLR and garbidge colector like C# Automatic memory manegment.
+Developed by James Gosling at Sun Microsistem.
+
+Diferences : Java has several primitive types that are not objects. C# dose not have that.
+
+
+Python:
+Python is a script languadge. It ueses interpreator. not like C#.
+it is a dynamic languadge. not like C#.
+
+C++:
+ C++ is a general-purpose programming language with high-level and low-level capabilities.
+  It is a statically typed, free-form, multi-paradigm, usually compiled language supporting procedural programming, data abstraction,
+   object-oriented programming, and generic programming.
+
+   the C# and C++ are similar in their sintax.
+In C++ there si no Automatic memory manegmant.
+
+Ruby:
+
+Ruby is a dynamic, reflective, object-oriented, general-purpose programming language.
+ It was designed and developed in the mid-1990s by Yukihiro "Matz" Matsumoto in Japan.
+ Ruby is said to follow the principle of least astonishment (POLA),
+  meaning that the language should behave in such a way as to minimize confusion for experienced users.
+ 
+ Similarity - There is Aoutomatic memory manegment. lik C#
+ There are classes.

@@ -1,0 +1,5 @@
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\OperatorsAndExpression\BitwiseExtractBit3\bin\Debug\BitwiseExtractBit3.exe.config
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\OperatorsAndExpression\BitwiseExtractBit3\bin\Debug\BitwiseExtractBit3.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\OperatorsAndExpression\BitwiseExtractBit3\bin\Debug\BitwiseExtractBit3.pdb
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\OperatorsAndExpression\BitwiseExtractBit3\obj\Debug\BitwiseExtractBit3.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\OperatorsAndExpression\BitwiseExtractBit3\obj\Debug\BitwiseExtractBit3.pdb

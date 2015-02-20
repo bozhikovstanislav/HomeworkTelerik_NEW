@@ -1,0 +1,5 @@
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\ConsolInOut\Nuberfrom1ToN\bin\Debug\Nuberfrom1ToN.exe.config
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\ConsolInOut\Nuberfrom1ToN\bin\Debug\Nuberfrom1ToN.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\ConsolInOut\Nuberfrom1ToN\bin\Debug\Nuberfrom1ToN.pdb
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\ConsolInOut\Nuberfrom1ToN\obj\Debug\Nuberfrom1ToN.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\ConsolInOut\Nuberfrom1ToN\obj\Debug\Nuberfrom1ToN.pdb

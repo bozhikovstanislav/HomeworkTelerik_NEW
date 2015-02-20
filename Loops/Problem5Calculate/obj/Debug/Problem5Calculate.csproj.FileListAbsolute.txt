@@ -1,0 +1,6 @@
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Loops\Problem5Calculate\bin\Debug\Problem5Calculate.exe.config
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Loops\Problem5Calculate\bin\Debug\Problem5Calculate.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Loops\Problem5Calculate\bin\Debug\Problem5Calculate.pdb
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Loops\Problem5Calculate\obj\Debug\Problem5Calculate.csprojResolveAssemblyReference.cache
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Loops\Problem5Calculate\obj\Debug\Problem5Calculate.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Loops\Problem5Calculate\obj\Debug\Problem5Calculate.pdb

@@ -1,0 +1,5 @@
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\variablesHomework\ASCIITables\bin\Debug\ASCIITables.exe.config
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\variablesHomework\ASCIITables\bin\Debug\ASCIITables.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\variablesHomework\ASCIITables\bin\Debug\ASCIITables.pdb
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\variablesHomework\ASCIITables\obj\Debug\ASCIITables.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\variablesHomework\ASCIITables\obj\Debug\ASCIITables.pdb

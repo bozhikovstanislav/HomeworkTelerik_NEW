@@ -1,0 +1,5 @@
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Loops\DecimalToBinary\bin\Debug\DecimalToBinary.exe.config
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Loops\DecimalToBinary\bin\Debug\DecimalToBinary.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Loops\DecimalToBinary\bin\Debug\DecimalToBinary.pdb
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Loops\DecimalToBinary\obj\Debug\DecimalToBinary.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Loops\DecimalToBinary\obj\Debug\DecimalToBinary.pdb

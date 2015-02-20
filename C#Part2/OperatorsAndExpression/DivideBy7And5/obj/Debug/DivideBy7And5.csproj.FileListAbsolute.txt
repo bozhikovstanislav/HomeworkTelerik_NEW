@@ -1,0 +1,6 @@
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\OperatorsAndExpression\DivideBy7And5\bin\Debug\DivideBy7And5.exe.config
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\OperatorsAndExpression\DivideBy7And5\bin\Debug\DivideBy7And5.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\OperatorsAndExpression\DivideBy7And5\bin\Debug\DivideBy7And5.pdb
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\OperatorsAndExpression\DivideBy7And5\obj\Debug\DivideBy7And5.csprojResolveAssemblyReference.cache
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\OperatorsAndExpression\DivideBy7And5\obj\Debug\DivideBy7And5.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\OperatorsAndExpression\DivideBy7And5\obj\Debug\DivideBy7And5.pdb

@@ -1,0 +1,5 @@
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\variablesHomework\ExchangeValue\bin\Debug\ExchangeValue.exe.config
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\variablesHomework\ExchangeValue\bin\Debug\ExchangeValue.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\variablesHomework\ExchangeValue\bin\Debug\ExchangeValue.pdb
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\variablesHomework\ExchangeValue\obj\Debug\ExchangeValue.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\variablesHomework\ExchangeValue\obj\Debug\ExchangeValue.pdb

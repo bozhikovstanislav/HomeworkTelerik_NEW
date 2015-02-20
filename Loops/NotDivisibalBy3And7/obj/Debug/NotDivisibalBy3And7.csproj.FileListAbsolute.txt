@@ -1,0 +1,6 @@
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Loops\NotDivisibalBy3And7\bin\Debug\NotDivisibalBy3And7.exe.config
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Loops\NotDivisibalBy3And7\bin\Debug\NotDivisibalBy3And7.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Loops\NotDivisibalBy3And7\bin\Debug\NotDivisibalBy3And7.pdb
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Loops\NotDivisibalBy3And7\obj\Debug\NotDivisibalBy3And7.csprojResolveAssemblyReference.cache
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Loops\NotDivisibalBy3And7\obj\Debug\NotDivisibalBy3And7.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Loops\NotDivisibalBy3And7\obj\Debug\NotDivisibalBy3And7.pdb

@@ -1,0 +1,6 @@
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\ConsolInOut\Sumof5Numbers\bin\Debug\Sumof5Numbers.exe.config
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\ConsolInOut\Sumof5Numbers\bin\Debug\Sumof5Numbers.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\ConsolInOut\Sumof5Numbers\bin\Debug\Sumof5Numbers.pdb
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\ConsolInOut\Sumof5Numbers\obj\Debug\Sumof5Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\ConsolInOut\Sumof5Numbers\obj\Debug\Sumof5Numbers.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\ConsolInOut\Sumof5Numbers\obj\Debug\Sumof5Numbers.pdb

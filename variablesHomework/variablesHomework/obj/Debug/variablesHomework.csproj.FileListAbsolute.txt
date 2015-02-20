@@ -1,0 +1,5 @@
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\variablesHomework\variablesHomework\bin\Debug\variablesHomework.exe.config
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\variablesHomework\variablesHomework\bin\Debug\variablesHomework.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\variablesHomework\variablesHomework\bin\Debug\variablesHomework.pdb
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\variablesHomework\variablesHomework\obj\Debug\variablesHomework.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\variablesHomework\variablesHomework\obj\Debug\variablesHomework.pdb

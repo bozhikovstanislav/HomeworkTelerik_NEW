@@ -1,0 +1,11 @@
+c:\users\stanislav\documents\visual studio 2013\Projects\Intro-Programming-Homework\Sequence\bin\Debug\Sequence.exe.config
+c:\users\stanislav\documents\visual studio 2013\Projects\Intro-Programming-Homework\Sequence\bin\Debug\Sequence.exe
+c:\users\stanislav\documents\visual studio 2013\Projects\Intro-Programming-Homework\Sequence\bin\Debug\Sequence.pdb
+c:\users\stanislav\documents\visual studio 2013\Projects\Intro-Programming-Homework\Sequence\obj\Debug\Sequence.exe
+c:\users\stanislav\documents\visual studio 2013\Projects\Intro-Programming-Homework\Sequence\obj\Debug\Sequence.pdb
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Intro-Programming-Homework\Sequence\bin\Debug\Sequence.exe.config
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Intro-Programming-Homework\Sequence\obj\Debug\Sequence.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Intro-Programming-Homework\Sequence\obj\Debug\Sequence.pdb
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Intro-Programming-Homework\Sequence\bin\Debug\Sequence.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Intro-Programming-Homework\Sequence\bin\Debug\Sequence.pdb
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Intro-Programming-Homework\Sequence\obj\Debug\Sequence.csprojResolveAssemblyReference.cache

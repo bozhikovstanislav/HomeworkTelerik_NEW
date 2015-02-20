@@ -1,0 +1,6 @@
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\OperatorsAndExpression\GravitationOnMoon\bin\Debug\GravitationOnMoon.exe.config
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\OperatorsAndExpression\GravitationOnMoon\bin\Debug\GravitationOnMoon.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\OperatorsAndExpression\GravitationOnMoon\bin\Debug\GravitationOnMoon.pdb
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\OperatorsAndExpression\GravitationOnMoon\obj\Debug\GravitationOnMoon.csprojResolveAssemblyReference.cache
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\OperatorsAndExpression\GravitationOnMoon\obj\Debug\GravitationOnMoon.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\OperatorsAndExpression\GravitationOnMoon\obj\Debug\GravitationOnMoon.pdb

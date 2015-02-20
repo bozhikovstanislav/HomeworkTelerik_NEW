@@ -1,0 +1,5 @@
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\OperatorsAndExpression\PointInaCircle\bin\Debug\PointInaCircle.exe.config
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\OperatorsAndExpression\PointInaCircle\bin\Debug\PointInaCircle.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\OperatorsAndExpression\PointInaCircle\bin\Debug\PointInaCircle.pdb
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\OperatorsAndExpression\PointInaCircle\obj\Debug\PointInaCircle.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\OperatorsAndExpression\PointInaCircle\obj\Debug\PointInaCircle.pdb

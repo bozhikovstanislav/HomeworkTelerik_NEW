@@ -1,0 +1,6 @@
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Loops\Loops\bin\Debug\Loops.exe.config
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Loops\Loops\bin\Debug\Loops.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Loops\Loops\bin\Debug\Loops.pdb
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Loops\Loops\obj\Debug\Loops.csprojResolveAssemblyReference.cache
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Loops\Loops\obj\Debug\Loops.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Loops\Loops\obj\Debug\Loops.pdb

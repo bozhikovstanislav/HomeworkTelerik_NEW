@@ -1,0 +1,6 @@
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\ConsolInOut\NumberComparerer\bin\Debug\NumberComparerer.exe.config
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\ConsolInOut\NumberComparerer\bin\Debug\NumberComparerer.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\ConsolInOut\NumberComparerer\bin\Debug\NumberComparerer.pdb
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\ConsolInOut\NumberComparerer\obj\Debug\NumberComparerer.csprojResolveAssemblyReference.cache
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\ConsolInOut\NumberComparerer\obj\Debug\NumberComparerer.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\ConsolInOut\NumberComparerer\obj\Debug\NumberComparerer.pdb

@@ -1,0 +1,6 @@
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\OperatorsAndExpression\FourDigitNumber\bin\Debug\FourDigitNumber.exe.config
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\OperatorsAndExpression\FourDigitNumber\bin\Debug\FourDigitNumber.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\OperatorsAndExpression\FourDigitNumber\bin\Debug\FourDigitNumber.pdb
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\OperatorsAndExpression\FourDigitNumber\obj\Debug\FourDigitNumber.csprojResolveAssemblyReference.cache
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\OperatorsAndExpression\FourDigitNumber\obj\Debug\FourDigitNumber.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\OperatorsAndExpression\FourDigitNumber\obj\Debug\FourDigitNumber.pdb

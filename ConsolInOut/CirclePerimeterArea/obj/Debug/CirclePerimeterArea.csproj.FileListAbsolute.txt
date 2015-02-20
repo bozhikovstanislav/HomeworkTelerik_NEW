@@ -1,0 +1,6 @@
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\ConsolInOut\CirclePerimeterArea\bin\Debug\CirclePerimeterArea.exe.config
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\ConsolInOut\CirclePerimeterArea\bin\Debug\CirclePerimeterArea.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\ConsolInOut\CirclePerimeterArea\bin\Debug\CirclePerimeterArea.pdb
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\ConsolInOut\CirclePerimeterArea\obj\Debug\CirclePerimeterArea.csprojResolveAssemblyReference.cache
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\ConsolInOut\CirclePerimeterArea\obj\Debug\CirclePerimeterArea.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\ConsolInOut\CirclePerimeterArea\obj\Debug\CirclePerimeterArea.pdb

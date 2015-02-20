@@ -1,0 +1,5 @@
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\variablesHomework\StringObjects\bin\Debug\StringObjects.exe.config
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\variablesHomework\StringObjects\bin\Debug\StringObjects.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\variablesHomework\StringObjects\bin\Debug\StringObjects.pdb
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\variablesHomework\StringObjects\obj\Debug\StringObjects.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\variablesHomework\StringObjects\obj\Debug\StringObjects.pdb

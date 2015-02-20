@@ -1,0 +1,5 @@
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\OperatorsAndExpression\PointCercleRecangle\bin\Debug\PointCercleRecangle.exe.config
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\OperatorsAndExpression\PointCercleRecangle\bin\Debug\PointCercleRecangle.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\OperatorsAndExpression\PointCercleRecangle\bin\Debug\PointCercleRecangle.pdb
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\OperatorsAndExpression\PointCercleRecangle\obj\Debug\PointCercleRecangle.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\OperatorsAndExpression\PointCercleRecangle\obj\Debug\PointCercleRecangle.pdb

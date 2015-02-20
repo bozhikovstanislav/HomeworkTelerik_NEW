@@ -1,0 +1,5 @@
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Loops\MatrixOfNumbers\bin\Debug\MatrixOfNumbers.exe.config
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Loops\MatrixOfNumbers\bin\Debug\MatrixOfNumbers.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Loops\MatrixOfNumbers\bin\Debug\MatrixOfNumbers.pdb
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Loops\MatrixOfNumbers\obj\Debug\MatrixOfNumbers.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Loops\MatrixOfNumbers\obj\Debug\MatrixOfNumbers.pdb

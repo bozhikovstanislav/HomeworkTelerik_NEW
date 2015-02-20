@@ -1,0 +1,6 @@
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\ConsolInOut\FormatingNumbers\bin\Debug\FormatingNumbers.exe.config
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\ConsolInOut\FormatingNumbers\bin\Debug\FormatingNumbers.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\ConsolInOut\FormatingNumbers\bin\Debug\FormatingNumbers.pdb
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\ConsolInOut\FormatingNumbers\obj\Debug\FormatingNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\ConsolInOut\FormatingNumbers\obj\Debug\FormatingNumbers.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\ConsolInOut\FormatingNumbers\obj\Debug\FormatingNumbers.pdb

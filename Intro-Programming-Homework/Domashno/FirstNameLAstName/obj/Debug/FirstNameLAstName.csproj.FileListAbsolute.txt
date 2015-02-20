@@ -1,0 +1,6 @@
+c:\users\stanislav\documents\visual studio 2013\Projects\Intro-Programming-Homework\FirstNameLAstName\bin\Debug\FirstNameLAstName.exe.config
+c:\users\stanislav\documents\visual studio 2013\Projects\Intro-Programming-Homework\FirstNameLAstName\bin\Debug\FirstNameLAstName.exe
+c:\users\stanislav\documents\visual studio 2013\Projects\Intro-Programming-Homework\FirstNameLAstName\bin\Debug\FirstNameLAstName.pdb
+c:\users\stanislav\documents\visual studio 2013\Projects\Intro-Programming-Homework\FirstNameLAstName\obj\Debug\FirstNameLAstName.csprojResolveAssemblyReference.cache
+c:\users\stanislav\documents\visual studio 2013\Projects\Intro-Programming-Homework\FirstNameLAstName\obj\Debug\FirstNameLAstName.exe
+c:\users\stanislav\documents\visual studio 2013\Projects\Intro-Programming-Homework\FirstNameLAstName\obj\Debug\FirstNameLAstName.pdb

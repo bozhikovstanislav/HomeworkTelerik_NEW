@@ -1,0 +1,6 @@
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Loops\MaxMinAvera\bin\Debug\MaxMinAvera.exe.config
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Loops\MaxMinAvera\bin\Debug\MaxMinAvera.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Loops\MaxMinAvera\bin\Debug\MaxMinAvera.pdb
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Loops\MaxMinAvera\obj\Debug\MaxMinAvera.csprojResolveAssemblyReference.cache
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Loops\MaxMinAvera\obj\Debug\MaxMinAvera.exe
+C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Loops\MaxMinAvera\obj\Debug\MaxMinAvera.pdb

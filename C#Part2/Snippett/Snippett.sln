@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9C8F6081-E50C-4B90-9C8E-4A2AD1CAF5CC}"
+	ProjectSection(SolutionItems) = preProject
+		ArrayNumbers.snippet = ArrayNumbers.snippet
+		VGen.snippet = VGen.snippet
+		VGenN.snippet = VGenN.snippet
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
