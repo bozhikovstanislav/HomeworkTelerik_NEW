@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.Adding polynomials", "11
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.Subtracting polynomials", "12.Subtracting polynomials\12.Subtracting polynomials.csproj", "{643796F2-FE1B-4383-802C-78F28FC2C5A1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13.Solve tasks", "13.Solve tasks\13.Solve tasks.csproj", "{3144612E-BCDC-452F-A2D5-9ADA938ACE47}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{643796F2-FE1B-4383-802C-78F28FC2C5A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{643796F2-FE1B-4383-802C-78F28FC2C5A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{643796F2-FE1B-4383-802C-78F28FC2C5A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3144612E-BCDC-452F-A2D5-9ADA938ACE47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3144612E-BCDC-452F-A2D5-9ADA938ACE47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3144612E-BCDC-452F-A2D5-9ADA938ACE47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3144612E-BCDC-452F-A2D5-9ADA938ACE47}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
