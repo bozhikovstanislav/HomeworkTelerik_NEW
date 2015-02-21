@@ -1,0 +1,6 @@
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\Methods\08.Number as array\bin\Debug\08.Number as array.exe.config
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\Methods\08.Number as array\bin\Debug\08.Number as array.exe
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\Methods\08.Number as array\bin\Debug\08.Number as array.pdb
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\Methods\08.Number as array\obj\Debug\08.Number as array.csprojResolveAssemblyReference.cache
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\Methods\08.Number as array\obj\Debug\08.Number as array.exe
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\Methods\08.Number as array\obj\Debug\08.Number as array.pdb

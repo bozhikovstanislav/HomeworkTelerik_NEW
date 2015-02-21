@@ -1,0 +1,5 @@
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\Methods\04.Appearance count\bin\Debug\04.Appearance count.exe.config
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\Methods\04.Appearance count\bin\Debug\04.Appearance count.exe
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\Methods\04.Appearance count\bin\Debug\04.Appearance count.pdb
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\Methods\04.Appearance count\obj\Debug\04.Appearance count.exe
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\Methods\04.Appearance count\obj\Debug\04.Appearance count.pdb

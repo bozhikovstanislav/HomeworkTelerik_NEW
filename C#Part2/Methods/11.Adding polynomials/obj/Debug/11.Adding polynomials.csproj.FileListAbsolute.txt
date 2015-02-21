@@ -1,0 +1,6 @@
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\Methods\11.Adding polynomials\bin\Debug\11.Adding polynomials.exe.config
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\Methods\11.Adding polynomials\obj\Debug\11.Adding polynomials.csprojResolveAssemblyReference.cache
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\Methods\11.Adding polynomials\bin\Debug\11.Adding polynomials.exe
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\Methods\11.Adding polynomials\bin\Debug\11.Adding polynomials.pdb
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\Methods\11.Adding polynomials\obj\Debug\11.Adding polynomials.exe
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\Methods\11.Adding polynomials\obj\Debug\11.Adding polynomials.pdb
