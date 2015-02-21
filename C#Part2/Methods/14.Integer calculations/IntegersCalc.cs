@@ -55,10 +55,19 @@ class IntegersCalc
          Use variable number of arguments.
          
          */
-
-        Console.WriteLine(MinimumInteger(2, 3, 4, 5, 11, 2));
-        Console.WriteLine(MaximumInteger(4,6,8,99,0,6,45));
-        Console.WriteLine(Average(3, 65, 8, 9, 5, 3, 5, 5, 43, 3, 5, 7, 7));
+        int[] integers = 
+        {
+            3,2,2,1,4,5,67,78,5,3,2,2,34,5,6,7,8,8
+        };
+        for (int i = 0; i < integers.Length; i++)
+        {
+            Console.Write("{0}  ", integers[i]);
+        }
+        Console.WriteLine();
+        Console.WriteLine("The minimum number is {0}", MinimumInteger(integers));
+        Console.WriteLine("The maximum number is {0}", MaximumInteger(integers));
+        Console.WriteLine("The sum is {0}", CalcSum(integers));
+        Console.WriteLine("The average is {0:f2}", Average(integers));
 
 
     }
