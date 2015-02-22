@@ -1,5 +1,0 @@
-C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\NumericSystem\02.BinaryToDecimal\bin\Debug\02.BinaryToDecimal.exe.config
-C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\NumericSystem\02.BinaryToDecimal\obj\Debug\02.BinaryToDecimal.exe
-C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\NumericSystem\02.BinaryToDecimal\obj\Debug\02.BinaryToDecimal.pdb
-C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\NumericSystem\02.BinaryToDecimal\bin\Debug\02.BinaryToDecimal.exe
-C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\NumericSystem\02.BinaryToDecimal\bin\Debug\02.BinaryToDecimal.pdb

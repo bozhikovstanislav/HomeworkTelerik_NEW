@@ -1,6 +1,0 @@
-C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\NumericSystem\07.OnSystemToOther\bin\Debug\07.OnSystemToOther.exe.config
-C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\NumericSystem\07.OnSystemToOther\bin\Debug\07.OnSystemToOther.exe
-C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\NumericSystem\07.OnSystemToOther\bin\Debug\07.OnSystemToOther.pdb
-C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\NumericSystem\07.OnSystemToOther\obj\Debug\07.OnSystemToOther.csprojResolveAssemblyReference.cache
-C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\NumericSystem\07.OnSystemToOther\obj\Debug\07.OnSystemToOther.exe
-C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\NumericSystem\07.OnSystemToOther\obj\Debug\07.OnSystemToOther.pdb

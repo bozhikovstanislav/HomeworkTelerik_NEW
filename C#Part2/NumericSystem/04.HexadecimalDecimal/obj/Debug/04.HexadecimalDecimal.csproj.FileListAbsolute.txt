@@ -1,6 +1,0 @@
-C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\NumericSystem\04.HexadecimalDecimal\bin\Debug\04.HexadecimalDecimal.exe.config
-C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\NumericSystem\04.HexadecimalDecimal\bin\Debug\04.HexadecimalDecimal.exe
-C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\NumericSystem\04.HexadecimalDecimal\bin\Debug\04.HexadecimalDecimal.pdb
-C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\NumericSystem\04.HexadecimalDecimal\obj\Debug\04.HexadecimalDecimal.exe
-C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\NumericSystem\04.HexadecimalDecimal\obj\Debug\04.HexadecimalDecimal.pdb
-C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\NumericSystem\04.HexadecimalDecimal\obj\Debug\04.HexadecimalDecimal.csprojResolveAssemblyReference.cache

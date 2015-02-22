@@ -1,0 +1,6 @@
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\ClassObjects\01. Leap year\bin\Debug\_01.Leap_year.exe.config
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\ClassObjects\01. Leap year\bin\Debug\_01.Leap_year.exe
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\ClassObjects\01. Leap year\bin\Debug\_01.Leap_year.pdb
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\ClassObjects\01. Leap year\obj\Debug\01. Leap year.csprojResolveAssemblyReference.cache
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\ClassObjects\01. Leap year\obj\Debug\_01.Leap_year.exe
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\ClassObjects\01. Leap year\obj\Debug\_01.Leap_year.pdb
