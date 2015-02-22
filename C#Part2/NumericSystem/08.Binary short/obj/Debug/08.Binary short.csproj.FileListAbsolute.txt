@@ -1,0 +1,6 @@
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\NumericSystem\08.Binary short\bin\Debug\08.Binary short.exe.config
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\NumericSystem\08.Binary short\bin\Debug\08.Binary short.exe
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\NumericSystem\08.Binary short\bin\Debug\08.Binary short.pdb
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\NumericSystem\08.Binary short\obj\Debug\08.Binary short.csprojResolveAssemblyReference.cache
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\NumericSystem\08.Binary short\obj\Debug\08.Binary short.exe
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\NumericSystem\08.Binary short\obj\Debug\08.Binary short.pdb
