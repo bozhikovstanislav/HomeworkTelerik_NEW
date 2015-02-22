@@ -1,0 +1,5 @@
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\ClassObjects\02.Random numbers\bin\Debug\02.Random numbers.exe.config
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\ClassObjects\02.Random numbers\bin\Debug\02.Random numbers.exe
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\ClassObjects\02.Random numbers\bin\Debug\02.Random numbers.pdb
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\ClassObjects\02.Random numbers\obj\Debug\02.Random numbers.exe
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\ClassObjects\02.Random numbers\obj\Debug\02.Random numbers.pdb
