@@ -1,6 +1,0 @@
-C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\Methods\06.First larger than neighbours\bin\Debug\06.First larger than neighbours.exe.config
-C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\Methods\06.First larger than neighbours\bin\Debug\06.First larger than neighbours.exe
-C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\Methods\06.First larger than neighbours\bin\Debug\06.First larger than neighbours.pdb
-C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\Methods\06.First larger than neighbours\obj\Debug\06.First larger than neighbours.csprojResolveAssemblyReference.cache
-C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\Methods\06.First larger than neighbours\obj\Debug\06.First larger than neighbours.exe
-C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\Methods\06.First larger than neighbours\obj\Debug\06.First larger than neighbours.pdb

@@ -3,3 +3,8 @@ C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Loops\RandomNumbers\bin\Debu
 C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Loops\RandomNumbers\bin\Debug\RandomNumbers.pdb
 C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Loops\RandomNumbers\obj\Debug\RandomNumbers.exe
 C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Loops\RandomNumbers\obj\Debug\RandomNumbers.pdb
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\Loops\RandomNumbers\bin\Debug\RandomNumbers.exe.config
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\Loops\RandomNumbers\bin\Debug\RandomNumbers.exe
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\Loops\RandomNumbers\bin\Debug\RandomNumbers.pdb
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\Loops\RandomNumbers\obj\Debug\RandomNumbers.exe
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\Loops\RandomNumbers\obj\Debug\RandomNumbers.pdb

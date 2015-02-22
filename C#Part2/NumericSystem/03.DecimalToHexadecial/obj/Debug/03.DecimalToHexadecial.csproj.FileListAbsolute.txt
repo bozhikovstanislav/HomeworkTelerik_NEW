@@ -1,0 +1,5 @@
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\NumericSystem\03.DecimalToHexadecial\bin\Debug\03.DecimalToHexadecial.exe.config
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\NumericSystem\03.DecimalToHexadecial\bin\Debug\03.DecimalToHexadecial.exe
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\NumericSystem\03.DecimalToHexadecial\bin\Debug\03.DecimalToHexadecial.pdb
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\NumericSystem\03.DecimalToHexadecial\obj\Debug\03.DecimalToHexadecial.exe
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\NumericSystem\03.DecimalToHexadecial\obj\Debug\03.DecimalToHexadecial.pdb

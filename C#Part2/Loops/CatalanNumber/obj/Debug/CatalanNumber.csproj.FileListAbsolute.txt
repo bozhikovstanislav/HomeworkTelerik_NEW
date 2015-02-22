@@ -4,3 +4,9 @@ C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Loops\CatalanNumber\bin\Debu
 C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Loops\CatalanNumber\obj\Debug\CatalanNumber.csprojResolveAssemblyReference.cache
 C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Loops\CatalanNumber\obj\Debug\CatalanNumber.exe
 C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Loops\CatalanNumber\obj\Debug\CatalanNumber.pdb
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\Loops\CatalanNumber\bin\Debug\CatalanNumber.exe.config
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\Loops\CatalanNumber\bin\Debug\CatalanNumber.exe
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\Loops\CatalanNumber\bin\Debug\CatalanNumber.pdb
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\Loops\CatalanNumber\obj\Debug\CatalanNumber.csprojResolveAssemblyReference.cache
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\Loops\CatalanNumber\obj\Debug\CatalanNumber.exe
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\Loops\CatalanNumber\obj\Debug\CatalanNumber.pdb

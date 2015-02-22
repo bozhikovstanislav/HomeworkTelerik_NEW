@@ -1,7 +1,0 @@
-C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\Methods\Apearence\obj\Debug\AppearenceTest.csprojResolveAssemblyReference.cache
-C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\Methods\Apearence\bin\Debug\Apearence.dll
-C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\Methods\Apearence\bin\Debug\Apearence.pdb
-C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\Methods\Apearence\bin\Debug\04.Appearance count.exe
-C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\Methods\Apearence\bin\Debug\04.Appearance count.pdb
-C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\Methods\Apearence\obj\Debug\Apearence.dll
-C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\Methods\Apearence\obj\Debug\Apearence.pdb

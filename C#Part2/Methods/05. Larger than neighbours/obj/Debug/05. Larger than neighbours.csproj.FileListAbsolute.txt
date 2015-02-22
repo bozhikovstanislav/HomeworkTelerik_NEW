@@ -1,6 +1,0 @@
-C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\Methods\05. Larger than neighbours\bin\Debug\_05.Larger_than_neighbours.exe.config
-C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\Methods\05. Larger than neighbours\bin\Debug\_05.Larger_than_neighbours.exe
-C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\Methods\05. Larger than neighbours\bin\Debug\_05.Larger_than_neighbours.pdb
-C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\Methods\05. Larger than neighbours\obj\Debug\05. Larger than neighbours.csprojResolveAssemblyReference.cache
-C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\Methods\05. Larger than neighbours\obj\Debug\_05.Larger_than_neighbours.exe
-C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\Methods\05. Larger than neighbours\obj\Debug\_05.Larger_than_neighbours.pdb

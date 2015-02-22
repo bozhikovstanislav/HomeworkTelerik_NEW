@@ -1,8 +1,2 @@
 C:\Users\Stanislav\Documents\GitHub\C#Part2\Methods\03.English digit\bin\Debug\03.English digit.exe.config
 C:\Users\Stanislav\Documents\GitHub\C#Part2\Methods\03.English digit\obj\Debug\03.English digit.csprojResolveAssemblyReference.cache
-C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\Methods\03.English digit\bin\Debug\03.English digit.exe.config
-C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\Methods\03.English digit\obj\Debug\03.English digit.csprojResolveAssemblyReference.cache
-C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\Methods\03.English digit\bin\Debug\03.English digit.exe
-C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\Methods\03.English digit\bin\Debug\03.English digit.pdb
-C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\Methods\03.English digit\obj\Debug\03.English digit.exe
-C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\Methods\03.English digit\obj\Debug\03.English digit.pdb

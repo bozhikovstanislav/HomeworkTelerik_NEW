@@ -4,3 +4,9 @@ C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Loops\DeckOfCard\bin\Debug\D
 C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Loops\DeckOfCard\obj\Debug\DeckOfCard.csprojResolveAssemblyReference.cache
 C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Loops\DeckOfCard\obj\Debug\DeckOfCard.exe
 C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Loops\DeckOfCard\obj\Debug\DeckOfCard.pdb
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\Loops\DeckOfCard\bin\Debug\DeckOfCard.exe.config
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\Loops\DeckOfCard\bin\Debug\DeckOfCard.exe
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\Loops\DeckOfCard\bin\Debug\DeckOfCard.pdb
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\Loops\DeckOfCard\obj\Debug\DeckOfCard.csprojResolveAssemblyReference.cache
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\Loops\DeckOfCard\obj\Debug\DeckOfCard.exe
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\Loops\DeckOfCard\obj\Debug\DeckOfCard.pdb

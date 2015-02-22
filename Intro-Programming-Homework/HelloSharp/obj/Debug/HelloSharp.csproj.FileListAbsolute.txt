@@ -10,3 +10,6 @@ C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Intro-Programming-Homework\H
 C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Intro-Programming-Homework\HelloSharp\obj\Debug\HelloSharp.csprojResolveAssemblyReference.cache
 C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Intro-Programming-Homework\HelloSharp\obj\Debug\HelloSharp.exe
 C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Intro-Programming-Homework\HelloSharp\obj\Debug\HelloSharp.pdb
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\Intro-Programming-Homework\HelloSharp\bin\Debug\HelloSharp.exe.config
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\Intro-Programming-Homework\HelloSharp\obj\Debug\HelloSharp.exe
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\Intro-Programming-Homework\HelloSharp\obj\Debug\HelloSharp.pdb

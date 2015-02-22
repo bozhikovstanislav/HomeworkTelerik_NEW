@@ -3,3 +3,8 @@ C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Loops\ODDandEvenProduct\bin\
 C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Loops\ODDandEvenProduct\bin\Debug\ODDandEvenProduct.pdb
 C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Loops\ODDandEvenProduct\obj\Debug\ODDandEvenProduct.exe
 C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\Loops\ODDandEvenProduct\obj\Debug\ODDandEvenProduct.pdb
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\Loops\ODDandEvenProduct\bin\Debug\ODDandEvenProduct.exe.config
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\Loops\ODDandEvenProduct\bin\Debug\ODDandEvenProduct.exe
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\Loops\ODDandEvenProduct\bin\Debug\ODDandEvenProduct.pdb
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\Loops\ODDandEvenProduct\obj\Debug\ODDandEvenProduct.exe
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\Loops\ODDandEvenProduct\obj\Debug\ODDandEvenProduct.pdb

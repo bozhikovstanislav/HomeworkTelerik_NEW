@@ -3,3 +3,6 @@ C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\variablesHomework\BackAccoun
 C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\variablesHomework\BackAccount\bin\Debug\BackAccount.pdb
 C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\variablesHomework\BackAccount\obj\Debug\BackAccount.exe
 C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\variablesHomework\BackAccount\obj\Debug\BackAccount.pdb
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\variablesHomework\BackAccount\bin\Debug\BackAccount.exe.config
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\variablesHomework\BackAccount\obj\Debug\BackAccount.exe
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\variablesHomework\BackAccount\obj\Debug\BackAccount.pdb

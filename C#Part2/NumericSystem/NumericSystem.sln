@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.BinaryToDecimal", "01. Decimal to binary\02.BinaryToDecimal.csproj", "{2CBDBD26-997D-4BB5-B099-DA7E56F443F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.DecimalToBinary", "02.BinaryToDecimal\01.DecimalToBinary.csproj", "{3457AEC2-EBF9-458E-8DD6-2329B6267ECE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.DecimalToHexadecial", "03.DecimalToHexadecial\03.DecimalToHexadecial.csproj", "{CABE6284-F878-47F6-B1F4-B409286DB86B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.HexadecimalDecimal", "04.HexadecimalDecimal\04.HexadecimalDecimal.csproj", "{19B03595-E12F-48EE-8049-401DC6465A49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CBDBD26-997D-4BB5-B099-DA7E56F443F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CBDBD26-997D-4BB5-B099-DA7E56F443F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CBDBD26-997D-4BB5-B099-DA7E56F443F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CBDBD26-997D-4BB5-B099-DA7E56F443F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3457AEC2-EBF9-458E-8DD6-2329B6267ECE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3457AEC2-EBF9-458E-8DD6-2329B6267ECE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3457AEC2-EBF9-458E-8DD6-2329B6267ECE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3457AEC2-EBF9-458E-8DD6-2329B6267ECE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CABE6284-F878-47F6-B1F4-B409286DB86B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CABE6284-F878-47F6-B1F4-B409286DB86B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CABE6284-F878-47F6-B1F4-B409286DB86B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CABE6284-F878-47F6-B1F4-B409286DB86B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19B03595-E12F-48EE-8049-401DC6465A49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19B03595-E12F-48EE-8049-401DC6465A49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19B03595-E12F-48EE-8049-401DC6465A49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19B03595-E12F-48EE-8049-401DC6465A49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

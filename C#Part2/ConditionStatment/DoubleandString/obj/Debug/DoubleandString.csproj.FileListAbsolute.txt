@@ -1,1 +1,2 @@
 C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\ConditionStatment\DoubleandString\bin\Debug\DoubleandString.exe.config
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\ConditionStatment\DoubleandString\bin\Debug\DoubleandString.exe.config
