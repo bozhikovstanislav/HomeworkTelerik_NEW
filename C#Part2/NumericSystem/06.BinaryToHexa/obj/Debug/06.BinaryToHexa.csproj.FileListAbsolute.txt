@@ -1,0 +1,6 @@
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\NumericSystem\06.BinaryToHexa\bin\Debug\06.BinaryToHexa.exe.config
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\NumericSystem\06.BinaryToHexa\bin\Debug\06.BinaryToHexa.exe
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\NumericSystem\06.BinaryToHexa\bin\Debug\06.BinaryToHexa.pdb
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\NumericSystem\06.BinaryToHexa\obj\Debug\06.BinaryToHexa.csprojResolveAssemblyReference.cache
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\NumericSystem\06.BinaryToHexa\obj\Debug\06.BinaryToHexa.exe
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\NumericSystem\06.BinaryToHexa\obj\Debug\06.BinaryToHexa.pdb
