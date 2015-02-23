@@ -1,0 +1,5 @@
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\ClassObjects\03.DayOfTheWeek\bin\Debug\03.DayOfTheWeek.exe.config
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\ClassObjects\03.DayOfTheWeek\bin\Debug\03.DayOfTheWeek.exe
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\ClassObjects\03.DayOfTheWeek\bin\Debug\03.DayOfTheWeek.pdb
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\ClassObjects\03.DayOfTheWeek\obj\Debug\03.DayOfTheWeek.exe
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\ClassObjects\03.DayOfTheWeek\obj\Debug\03.DayOfTheWeek.pdb

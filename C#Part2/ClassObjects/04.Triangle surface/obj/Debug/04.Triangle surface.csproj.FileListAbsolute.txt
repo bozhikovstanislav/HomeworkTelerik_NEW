@@ -1,0 +1,6 @@
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\ClassObjects\04.Triangle surface\bin\Debug\04.Triangle surface.exe.config
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\ClassObjects\04.Triangle surface\bin\Debug\04.Triangle surface.exe
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\ClassObjects\04.Triangle surface\bin\Debug\04.Triangle surface.pdb
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\ClassObjects\04.Triangle surface\obj\Debug\04.Triangle surface.csprojResolveAssemblyReference.cache
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\ClassObjects\04.Triangle surface\obj\Debug\04.Triangle surface.exe
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\ClassObjects\04.Triangle surface\obj\Debug\04.Triangle surface.pdb
