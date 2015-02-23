@@ -1,1 +1,6 @@
 C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\ClassObjects\07.Sum integers\bin\Debug\07.Sum integers.exe.config
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\ClassObjects\07.Sum integers\bin\Debug\07.Sum integers.exe
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\ClassObjects\07.Sum integers\bin\Debug\07.Sum integers.pdb
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\ClassObjects\07.Sum integers\obj\Debug\07.Sum integers.csprojResolveAssemblyReference.cache
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\ClassObjects\07.Sum integers\obj\Debug\07.Sum integers.exe
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\ClassObjects\07.Sum integers\obj\Debug\07.Sum integers.pdb
