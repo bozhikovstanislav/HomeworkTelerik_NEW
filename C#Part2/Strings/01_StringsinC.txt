@@ -1,0 +1,30 @@
+Describe the strings in C#.
+What is typical for the string data type?
+Describe the most important methods of the String class.
+
+
+1. String are sequance of charecters. it is a Unicod Symbol
+2. System.String is the data type of string.
+
+Compare() - compater string .
+Concat() - adding strings.
+IndexOf() - searching in string. if retur -1 there is no such index.
+LastIndexOF()- finding last in the string
+substring() - extracting a part form string
+split()- dividing a string with a given char.
+select.(int.Parse).ToArray();
+Replace() - replace a  char in a string
+.Replace("Sho,"Ivan").Substring(2);
+.Replace("Ivan","Gosho")
+Наслагване.
+Презаписване.
+Remove().  - From Index , length
+ToLower()- small letters,
+ToUpper() - big Letters,
+Trim() - remove spaces Intervalt
+TrimStat()- 
+TrimEnd() - 
+Can Dlete spcific letter Trim('a','!'.....);
+String are Imutable = have to be присвоен :)
+
+StringBuilder !!
