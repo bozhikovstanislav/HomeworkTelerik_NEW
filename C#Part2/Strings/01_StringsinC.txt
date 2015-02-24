@@ -28,3 +28,5 @@ Can Dlete spcific letter Trim('a','!'.....);
 String are Imutable = have to be присвоен :)
 
 StringBuilder !!
+StringBuilder(int capacity).
+StringBuilder.Insert(2,"%");
