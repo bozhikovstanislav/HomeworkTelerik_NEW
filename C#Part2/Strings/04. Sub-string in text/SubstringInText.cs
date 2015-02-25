@@ -20,10 +20,6 @@
             }
             return count;
         }
-
-
-
-
         static void Main()
         {
             /*Problem 4. Sub-string in text

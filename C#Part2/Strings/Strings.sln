@@ -14,6 +14,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Correct brackets", "03.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Sub-string in text", "04. Sub-string in text\04. Sub-string in text.csproj", "{4D7B03D1-486B-49EA-83CB-B7544AA4AC60}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.Parse tags", "05.Parse tags\05.Parse tags.csproj", "{33A09912-48FC-4384-8DE5-7DB5BE74292F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -32,6 +34,10 @@ Global
 		{4D7B03D1-486B-49EA-83CB-B7544AA4AC60}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D7B03D1-486B-49EA-83CB-B7544AA4AC60}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D7B03D1-486B-49EA-83CB-B7544AA4AC60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33A09912-48FC-4384-8DE5-7DB5BE74292F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33A09912-48FC-4384-8DE5-7DB5BE74292F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33A09912-48FC-4384-8DE5-7DB5BE74292F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33A09912-48FC-4384-8DE5-7DB5BE74292F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
