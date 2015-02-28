@@ -42,6 +42,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17.Date in Bulgarian", "17.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18.Extract e-mails", "18.Extract e-mails\18.Extract e-mails.csproj", "{EFA2E86B-E111-44C5-B7E5-A0FD1C0193AE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19.Dates from text in Canada", "19.Dates from text in Canada\19.Dates from text in Canada.csproj", "{2D40CB63-BB6D-438D-AF7D-924341AE002A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -116,6 +118,10 @@ Global
 		{EFA2E86B-E111-44C5-B7E5-A0FD1C0193AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EFA2E86B-E111-44C5-B7E5-A0FD1C0193AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EFA2E86B-E111-44C5-B7E5-A0FD1C0193AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D40CB63-BB6D-438D-AF7D-924341AE002A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D40CB63-BB6D-438D-AF7D-924341AE002A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D40CB63-BB6D-438D-AF7D-924341AE002A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D40CB63-BB6D-438D-AF7D-924341AE002A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
