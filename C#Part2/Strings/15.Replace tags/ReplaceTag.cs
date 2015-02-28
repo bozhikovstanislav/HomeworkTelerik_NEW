@@ -10,27 +10,29 @@
            
             string aString = string.Empty;
             string textStr = string.Empty;
-            for (int i = 0; i < words.Length; i++)
-            {
+           
                 
-                int index = text.IndexOf(tags[i]);
-                int indexOfNext = text.IndexOf(tags[i], index+1);
-                if (index != -1)
-                {
-                   
-                        aString = text.Replace(tags[i], words[i]);
-                        index = text.IndexOf(tags[i],index+1);
+                //int index = text.IndexOf(tags[0]);
+                //int indexOfEndUrl = text.IndexOf(tags[2]);
+                //if (index != -1)
+                //{
+
+                        aString = text.Replace(tags[0], words[0]).Replace(tags[2],words[2]).Replace(tags[1],words[1]);
+                        
                         text = aString;
                     
-                   
-                }
+               // }
 
-            }
+            
 
 
             return aString;
 
         }
+
+
+
+
         static void Main()
         {
             /*Problem 15. Replace tags
@@ -42,13 +44,14 @@
 
             
 
-            string htmlText = @"<p>Please visit <a href="+"http://academy.telerik. com"+">our site</a> to choose a training course. Also visit <a href="+"www.devbg.org"+">our forum</a> to discuss the courses.</p>";
+            string htmlText = @"<p>Please visit <a href="+"http://academy.telerik. com\""+">our site</a> to choose a training course. Also visit <a href=\""+"www.devbg.org\""+">our forum</a> to discuss the courses.</p>";
 
-
+            
 
             string [] words=
             {
                 "[URL=",
+                "]",
                 "[URL]"
                 
                
@@ -56,26 +59,13 @@
             string[] tags=
             {
                 "<a href=",
-                
+                "\">",
                 "</a>"
                 
                 
             };
             string result=ForbidenWord(htmlText, words, tags);
-
-            int indexClosedHref = result.IndexOf('>');
-
-            
-            for (int i = 0; i < result.Length; i++)
-            {
-                indexClosedHref = result.IndexOf(tags[i], indexClosedHref + 1);
-                string tag = htmlText.Substring(2-indexClosedHref,3);
-                
-                Console.Write(tag);
-            }
-
-          
-
+            Console.Write(result);
             Console.WriteLine();
 
         }
