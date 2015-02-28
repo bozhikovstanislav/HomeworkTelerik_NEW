@@ -38,6 +38,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15.Replace tags", "15.Repla
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16.Date difference", "16.Date difference\16.Date difference.csproj", "{22F8964A-2365-4723-AF50-289B0E24E2D0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17.Date in Bulgarian", "17.Date in Bulgarian\17.Date in Bulgarian.csproj", "{17F67FB1-F01B-48BF-A441-E4B4102DA569}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -104,6 +106,10 @@ Global
 		{22F8964A-2365-4723-AF50-289B0E24E2D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22F8964A-2365-4723-AF50-289B0E24E2D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22F8964A-2365-4723-AF50-289B0E24E2D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17F67FB1-F01B-48BF-A441-E4B4102DA569}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17F67FB1-F01B-48BF-A441-E4B4102DA569}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17F67FB1-F01B-48BF-A441-E4B4102DA569}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17F67FB1-F01B-48BF-A441-E4B4102DA569}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
