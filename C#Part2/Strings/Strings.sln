@@ -44,6 +44,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18.Extract e-mails", "18.Ex
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19.Dates from text in Canada", "19.Dates from text in Canada\19.Dates from text in Canada.csproj", "{2D40CB63-BB6D-438D-AF7D-924341AE002A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20.Palindromes", "20.Palindromes\20.Palindromes.csproj", "{D6AED853-837A-4E76-98BD-2B65DAA1F7C0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -122,6 +124,10 @@ Global
 		{2D40CB63-BB6D-438D-AF7D-924341AE002A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2D40CB63-BB6D-438D-AF7D-924341AE002A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2D40CB63-BB6D-438D-AF7D-924341AE002A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6AED853-837A-4E76-98BD-2B65DAA1F7C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6AED853-837A-4E76-98BD-2B65DAA1F7C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6AED853-837A-4E76-98BD-2B65DAA1F7C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6AED853-837A-4E76-98BD-2B65DAA1F7C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
