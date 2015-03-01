@@ -9,17 +9,24 @@
             double result = 0;
             try
             {
-                ulong number = ulong.Parse(Console.ReadLine());
+
+                double number = double.Parse(Console.ReadLine());
+                if(number<0)
+                {
+                    throw new OverflowException("Invalid Number or Negative in try");
+                }
                 result = Math.Sqrt(number);
                 Console.WriteLine("The sqr root of number {0} is {1}", number, result);
             }
             catch (FormatException ex)
             {
                 Console.WriteLine("Invalid number:  {0}", ex.Message, ex.StackTrace);
+                throw ex;
             }
             catch (OverflowException)
             {
-                Console.WriteLine("Invalid Number or Negative");
+                throw new OverflowException("Invalid Number or Negative");
+                
             }
             finally
             {
