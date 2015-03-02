@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Enter numbers", "02.Ente
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Read file contents", "03.Read file contents\03.Read file contents.csproj", "{F799529C-1888-42F0-8D1F-FA4F1921D5E1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Download file", "04.Download file\04.Download file.csproj", "{53D49A94-7A1A-4DEA-BA56-061024872983}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,16 @@ Global
 		{F799529C-1888-42F0-8D1F-FA4F1921D5E1}.Release|ARM.ActiveCfg = Release|Any CPU
 		{F799529C-1888-42F0-8D1F-FA4F1921D5E1}.Release|x64.ActiveCfg = Release|Any CPU
 		{F799529C-1888-42F0-8D1F-FA4F1921D5E1}.Release|x86.ActiveCfg = Release|Any CPU
+		{53D49A94-7A1A-4DEA-BA56-061024872983}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53D49A94-7A1A-4DEA-BA56-061024872983}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53D49A94-7A1A-4DEA-BA56-061024872983}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{53D49A94-7A1A-4DEA-BA56-061024872983}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{53D49A94-7A1A-4DEA-BA56-061024872983}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{53D49A94-7A1A-4DEA-BA56-061024872983}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53D49A94-7A1A-4DEA-BA56-061024872983}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53D49A94-7A1A-4DEA-BA56-061024872983}.Release|ARM.ActiveCfg = Release|Any CPU
+		{53D49A94-7A1A-4DEA-BA56-061024872983}.Release|x64.ActiveCfg = Release|Any CPU
+		{53D49A94-7A1A-4DEA-BA56-061024872983}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
