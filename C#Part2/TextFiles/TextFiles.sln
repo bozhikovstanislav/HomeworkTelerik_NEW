@@ -5,6 +5,10 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Odd lines", "01. Odd lines\01. Odd lines.csproj", "{73E53FDC-1994-497E-A27A-125180BA63D0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Concatenate text files", "02.Concatenate text files\02.Concatenate text files.csproj", "{29714BA0-326E-469F-B98D-28C301D1D247}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Line numbers", "03.Line numbers\03.Line numbers.csproj", "{11724DD8-087B-472A-BD15-1277086EDAAF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{73E53FDC-1994-497E-A27A-125180BA63D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{73E53FDC-1994-497E-A27A-125180BA63D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{73E53FDC-1994-497E-A27A-125180BA63D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29714BA0-326E-469F-B98D-28C301D1D247}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29714BA0-326E-469F-B98D-28C301D1D247}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29714BA0-326E-469F-B98D-28C301D1D247}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29714BA0-326E-469F-B98D-28C301D1D247}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11724DD8-087B-472A-BD15-1277086EDAAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11724DD8-087B-472A-BD15-1277086EDAAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11724DD8-087B-472A-BD15-1277086EDAAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11724DD8-087B-472A-BD15-1277086EDAAF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
