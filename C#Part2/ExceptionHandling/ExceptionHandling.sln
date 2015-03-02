@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.SquareRoot", "01.SquareR
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Enter numbers", "02.Enter numbers\02.Enter numbers.csproj", "{AC5E3A5C-7453-4F85-8946-1B893C0E7EC2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Read file contents", "03.Read file contents\03.Read file contents.csproj", "{F799529C-1888-42F0-8D1F-FA4F1921D5E1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,16 @@ Global
 		{AC5E3A5C-7453-4F85-8946-1B893C0E7EC2}.Release|ARM.ActiveCfg = Release|Any CPU
 		{AC5E3A5C-7453-4F85-8946-1B893C0E7EC2}.Release|x64.ActiveCfg = Release|Any CPU
 		{AC5E3A5C-7453-4F85-8946-1B893C0E7EC2}.Release|x86.ActiveCfg = Release|Any CPU
+		{F799529C-1888-42F0-8D1F-FA4F1921D5E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F799529C-1888-42F0-8D1F-FA4F1921D5E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F799529C-1888-42F0-8D1F-FA4F1921D5E1}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{F799529C-1888-42F0-8D1F-FA4F1921D5E1}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{F799529C-1888-42F0-8D1F-FA4F1921D5E1}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F799529C-1888-42F0-8D1F-FA4F1921D5E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F799529C-1888-42F0-8D1F-FA4F1921D5E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F799529C-1888-42F0-8D1F-FA4F1921D5E1}.Release|ARM.ActiveCfg = Release|Any CPU
+		{F799529C-1888-42F0-8D1F-FA4F1921D5E1}.Release|x64.ActiveCfg = Release|Any CPU
+		{F799529C-1888-42F0-8D1F-FA4F1921D5E1}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
