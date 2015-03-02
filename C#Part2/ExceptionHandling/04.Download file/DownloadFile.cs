@@ -6,9 +6,28 @@
     {
         static void DownloadImage(string path)
         {
-            WebClient Client = new WebClient();
+            try
+            {
+                WebClient Client = new WebClient();
 
-            Client.DownloadFile(@"http://telerikacademy.com/Content/Images/news-img01.png", path);
+                Client.DownloadFile(@"http://telerikacademy.com/Content/Images/news-img01.png", path);
+
+
+            }
+            catch(ArgumentNullException ex)
+            {
+                Console.WriteLine("There is no such file to download {0}", ex.Message);
+            }
+            catch(WebException ex)
+            {
+                Console.WriteLine("There is not internet conection to this computer pleas check your cable {0}",ex.Message);
+            }
+            catch (Exception)
+            {
+                
+                throw;
+            }
+          
         }
 
         static void Main()
