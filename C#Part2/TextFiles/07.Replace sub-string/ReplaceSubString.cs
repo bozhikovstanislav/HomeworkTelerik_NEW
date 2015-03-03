@@ -17,9 +17,7 @@
                 while (line != null)
                 {
                     lineNumber++;
-                   
-                        //Console.WriteLine("Line {0}: {1}",
-                        //lineNumber, line);
+                  
                  
                     line = reader.ReadLine();
 
