@@ -1,10 +1,46 @@
 ﻿namespace _05.Maximal_area_sum
 {
     using System;
+    using System.Collections.Generic;
     using System.IO;
 
     class MaximumSumNumber
     {
+        static List<int> readMatrix(string path)
+        {
+            StreamReader reader = new StreamReader(path);
+           List<int> result=new List<int>();
+            using (reader)
+            {
+              
+                string[] line = reader.ReadLine().Split(' ');
+                result.Add(int.Parse(line[0]));
+                while (line != null)
+                {
+                   
+                    string lineCheck = reader.ReadLine();
+                    if (lineCheck==null && line.Length==0)
+                    {
+                        continue;
+                    }
+                    if (lineCheck == null)
+                    {
+                        break;
+                    }
+                    line = lineCheck.Split(' ');
+                    foreach (var item in line)
+                    {
+                        if (item == string.Empty)
+                        {
+                            continue;
+                        }
+                        result.Add(int.Parse(item));
+                    }
+                }
+
+            }
+            return result;
+        }
         static void MaximumSum(string path)
         {
             int bestSum = int.MinValue;
@@ -17,57 +53,38 @@
 
                 using (readerMatric)
                 {
-                    int rows = int.Parse(readerMatric.ReadLine());
+
+                    int rows = readMatrix(path)[0];
                     int cols = rows;
                     int[,] matrix = new int[rows, cols];
 
                     // Enter the matrix elements
+                    int coltemp = 1;
                     for (int row = 0; row < rows; row++)
                     {
+                        
                         for (int col = 0; col < cols; col++)
                         {
+                            
+                            int element = readMatrix(path)[coltemp];
+                            matrix[row, col] = element;
+                            Console.WriteLine("matrix[{0},{1}] = {2}", row, col, element);
+                            coltemp++;
 
-                            string line = readerMatric.ReadLine();
-                            if(line==null)
-                            {
-                                continue;
-                            }
-                            string[] lineARow = line.Split(' ');
-                            for (int i = 0; i < lineARow.Length-1; i++)
-                            {
-                                matrix[row, col] = int.Parse(lineARow[i]);
-                            }
-                            while (line != null)
-                            {
-                                
-                                line = readerMatric.ReadLine();
-                                if(line==null)
-                                {
-                                    continue;
-                                }
-                                string[] secondLine = line.Split(' ');
-                                for (int i = 0; i < secondLine.Length-1; i++)
-                                {
-                                    matrix[row, col] = int.Parse(secondLine[i]);
-                                }
-
-                            }
-                           Console.WriteLine("matrix[{0},{1}] = {2}", row, col, matrix[row, col]);
-                          
                         }
                     }
                     // Find the maximal sum platform of size 2 x 2
                    
                     for (int row = 0; row < matrix.GetLength(0) - 1; row++)
                     {
-                        for (int col = 0; col < matrix.GetLength(1) - 1; col++)
+                        for (int colread = 0; colread < matrix.GetLength(1) - 1; colread++)
                         {
-                            int sum = matrix[row, col] + matrix[row, col + 1] + matrix[row + 1, col] + matrix[row + 1, col + 1];
+                            int sum = matrix[row, colread] + matrix[row, colread + 1] + matrix[row + 1, colread] + matrix[row + 1, colread + 1];
                             if (sum > bestSum)
                             {
                                 bestSum = sum;
                                 bestRow = row;
-                                bestCol = col;
+                                bestCol = colread;
                             }
                         }
                     }
@@ -92,6 +109,8 @@
              The output should be a single number in a separate text file.
              */
 
+
+            readMatrix(@"..\..\FileMatrix.txt");
             MaximumSum(@"..\..\FileMatrix.txt");
         }
     }
