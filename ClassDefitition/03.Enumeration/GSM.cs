@@ -7,11 +7,23 @@
     {
         public string Model { get; set; }
         public string Manifacturer { get; set; }
-        public decimal Price { get; set; }
-        public string Owner { get; set; }
+        public decimal? Price { get; set; }
+        public string? Owner { get; set; }
         public Battery BatteryGSM { get; set; }
         public Displey DispleyGSM { get; set; }
 
+
+        public GSM(string model,string manifacturer,decimal? price,string? owner,Battery batteryPhone,Displey displeyPhone)
+        {
+            this.Model = model;
+            this.Manifacturer = manifacturer;
+            this.BatteryGSM = batteryPhone;
+            this.DispleyGSM = displeyPhone;
+        }
+       public GSM()
+        {
+
+        }
         public override string ToString()
         {
             Console.WriteLine("Model - {0}", this.Model);
@@ -25,7 +37,5 @@
             Console.WriteLine("Displey - SizeDispley-  {0}", this.DispleyGSM.SizeDisplay);
             return base.ToString();
         }
-
-
     }
 }

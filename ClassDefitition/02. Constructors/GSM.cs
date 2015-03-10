@@ -11,13 +11,18 @@
       public Battery BatteryGSM { get; set; }
       public Displey DispleyGSM { get; set; }
 
+      public GSM(string model, string manifacturer, decimal? price, string? owner, Battery batteryPhone, Displey displeyPhone)
+      {
+          this.Model = model;
+          this.Manifacturer = manifacturer;
+          this.BatteryGSM = batteryPhone;
+          this.DispleyGSM = displeyPhone;
+      }
+
       public GSM()
       {
 
       }
-
-
-
       public override string ToString()
       {
           Console.WriteLine("Model - {0}", this.Model);

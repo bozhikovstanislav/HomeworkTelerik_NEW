@@ -10,7 +10,14 @@ namespace _02.Constructors
         public uint HouerIdle { get; set; }
         public uint HouerTalk { get; set; }
 
-        public Battery()
+        public Battery(string modelBatery,uint houerIdle,uint houerTalk)
+        {
+            this.ModelBatery = modelBatery;
+            this.HouerIdle = houerIdle;
+            this.HouerTalk = houerTalk;
+ 
+        }
+       public Battery()
         {
 
         }
