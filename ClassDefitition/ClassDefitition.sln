@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. ClassDefitnition", "ClassDefitnition\01. ClassDefitnition.csproj", "{E7E8C6C7-2AD0-4120-A1C3-1F25120B893E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.ClassDefitnition", "ClassDefitnition\01.ClassDefitnition.csproj", "{E7E8C6C7-2AD0-4120-A1C3-1F25120B893E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Enumeration", "03.Enumeration\03.Enumeration.csproj", "{157FE2E2-D0F1-4530-9E58-A862DAE9C638}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Constructors", "02. Constructors\02. Constructors.csproj", "{5BF5EE9C-F9C6-46E3-8E85-07FCC637BC35}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Constructors", "02. Constructors\02.Constructors.csproj", "{5BF5EE9C-F9C6-46E3-8E85-07FCC637BC35}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.ToString", "04.ToString\04.ToString.csproj", "{50CC47A9-58D5-4DBF-BA3F-BAD796F8E267}"
 EndProject
