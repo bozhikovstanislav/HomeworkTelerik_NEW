@@ -1,9 +1,9 @@
-﻿namespace _03.Enumeration
+﻿namespace _02.Constructors
 {
     using System;
 
 
-    class Battery
+   public class Battery
     {
         public string ModelBatery { get; set; }
         public uint HouerIdle { get; set; }

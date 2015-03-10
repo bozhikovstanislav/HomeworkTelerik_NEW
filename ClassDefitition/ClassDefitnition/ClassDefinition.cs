@@ -36,7 +36,7 @@
         }
     }
    
-    class Program
+    class ClassDefinition
     {
         static void Main()
         {

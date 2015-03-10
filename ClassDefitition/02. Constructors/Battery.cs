@@ -1,10 +1,8 @@
-﻿
-
-namespace _02.Constructors
+﻿namespace _02.Constructors
 {
     using System;
 
-  public  class Battery
+    public  class Battery
     {
         public string ModelBatery { get; set; }
         public uint HouerIdle { get; set; }
@@ -17,7 +15,7 @@ namespace _02.Constructors
             this.HouerTalk = houerTalk;
  
         }
-       public Battery()
+        public Battery()
         {
 
         }

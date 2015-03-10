@@ -11,7 +11,7 @@
       public Battery BatteryGSM { get; set; }
       public Displey DispleyGSM { get; set; }
 
-      public GSM(string model, string manifacturer, decimal? price, string? owner, Battery batteryPhone, Displey displeyPhone)
+      public GSM(string model, string manifacturer, decimal price, string owner, Battery batteryPhone, Displey displeyPhone)
       {
           this.Model = model;
           this.Manifacturer = manifacturer;

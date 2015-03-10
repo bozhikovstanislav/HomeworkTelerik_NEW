@@ -2,7 +2,7 @@
 {
     using System;
  
-    class Program
+    class Enumaration
     {
         static void Main()
         {

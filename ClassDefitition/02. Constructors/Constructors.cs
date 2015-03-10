@@ -1,11 +1,12 @@
 ﻿namespace _02.Constructors
 {
+
     using System;
 
-    class Program
+
+
+    public class Constructors
     {
-
-
         static void Main()
         {
 
