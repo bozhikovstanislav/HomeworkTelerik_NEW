@@ -13,9 +13,7 @@
         private Battery battery;
         private static GSMPhone iphone4S;
         private List<Calls> callHistory;
-
-
-
+   
         public GSMPhone(string modelGSM, string manufacturerGSM, decimal priceGSM, string ownerGSM, Displey displeyGSM, Battery batteryGSM)
         {
             this.model = modelGSM;
@@ -134,7 +132,7 @@
             set { callHistory = value; }
         }
 
-
+      
         public void addCall(Calls call)
         {
             this.CallHistory.Add(call);
@@ -148,18 +146,24 @@
             this.CallHistory.Clear();
         }
 
-        public decimal CalculateTotalPrice(decimal pricePerMinute)
+        public double CalculateTotalPrice()
         {
-            decimal totalPrice = 0;
-            var allCalse = this.CallHistory;
-            decimal totalsecondsDuration = 0;
-            foreach (var item in allCalse)
-            {
-                totalsecondsDuration += item.Seconds;
-            }
-            decimal totalMinute = totalsecondsDuration / 60;
+    
+          
+                double totalPrice = 0;
+                var allCalse = this.CallHistory;
+                double totalsecondsDuration = 0;
+                double pricePerMinute = 0;
+                foreach (var item in allCalse)
+                {
+                    totalsecondsDuration += item.Seconds;
+                    pricePerMinute = item.PriceperMinute;
+                }
+                double totalMinute = totalsecondsDuration / 60;
 
-           return totalPrice = totalMinute * pricePerMinute;
+
+
+                return totalPrice = totalMinute * pricePerMinute;
 
         }
 
@@ -187,9 +191,10 @@
             sb.Append(string.Format("{0}", this.displey));
             sb.Append("\n");
             sb.Append("-------------------------------");
-            //sb.Append(string.Format("Call history {0}", this.CallHistory.ToString()));
-            //sb.Append("\n");
-            //sb.Append("-------------------------------");
+            sb.Append("\n");
+            sb.Append(string.Format("Total price {0}", CalculateTotalPrice()));
+            sb.Append("\n");
+            sb.Append("-------------------------------");
             return sb.ToString();
         }
     }

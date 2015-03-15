@@ -9,13 +9,16 @@
         private DateTime timeOfCall;
         private string phoneNuber;
         private ulong seconds;
+        private double priceperMinute;
 
-        public Calls(DateTime dateOfCallOfGSM,DateTime timeOfCallOfGSM,string phoneNumberCalled,ulong secondsCallDuretion )
+       
+        public Calls(DateTime dateOfCallOfGSM,DateTime timeOfCallOfGSM,string phoneNumberCalled,ulong secondsCallDuretion,double pricePerMinuteCall )
         {
             this.DateOfCall = dateOfCallOfGSM;
             this.TimeOfCall = timeOfCallOfGSM;
             this.PhoneNuber = phoneNumberCalled;
             this.Seconds = secondsCallDuretion;
+            this.PriceperMinute = pricePerMinuteCall;
         }
         public Calls()
         {
@@ -65,6 +68,11 @@
         {
             get { return seconds; }
             set { seconds = value; }
+        }
+        public double PriceperMinute
+        {
+            get { return priceperMinute; }
+            set { priceperMinute = value; }
         }
         public override string ToString()
         {

@@ -81,10 +81,12 @@
             GSMTestList test = new GSMTestList(11);
          
             for (int i = 0; i < 11; i++)
-            {   Calls call2 = new Calls(DateTime.Now.Date.AddDays(2), DateTime.Now.AddHours(2), "8566722344", 156);
-                Calls call3 = new Calls(DateTime.Now.Date.AddDays(-4), DateTime.Now.AddHours(5), "8568905335", 500);
-                Calls call1test = new Calls(DateTime.Now.Date, DateTime.Now, "8562231112", 466);
+            {   Calls call2 = new Calls(DateTime.Now.Date.AddDays(2), DateTime.Now.AddHours(2), "8566722344", 156,0.37);
+                Calls call3 = new Calls(DateTime.Now.Date.AddDays(-4), DateTime.Now.AddHours(5), "8568905335", 500,0.37);
+                Calls call1test = new Calls(DateTime.Now.Date, DateTime.Now, "8562231112", 466,0.37);
+              
                 test[i] = new GSMPhone();
+                
                 test[i].Displey = display[i];
                 test[i].Battery = bateri[i];
                 test[i].Price = prices[i];
@@ -92,8 +94,11 @@
                 test[i].addCall(call2);
                 test[i].addCall(call3);
                 test[i].Manufacturer = manifacturerGSM[i];
-
+                //test[i].deleteCalls(call2); -- Delete Call
+                //test[i].ClearHistoryCalls(); -- Clear History
+                test[i].CalculateTotalPrice();
                 Console.WriteLine(test[i].ToString());
+                
                 foreach (var item in test[i].CallHistory)
                 {
                     Console.WriteLine(item.ToString());
