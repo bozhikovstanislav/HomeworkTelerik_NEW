@@ -12,12 +12,9 @@
             lista.Arrailist = new int[lista.CapacityArray];
             lista.Add(5);
             lista.Add(10);
-            for (int i = 0; i < lista.CapacityArray; i++)
-            {
-               Console.WriteLine(lista[i]);
-            }
+          
 
-            
+           Console.WriteLine( lista.getValue(1).ToString());
             
 
         }
