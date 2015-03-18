@@ -33,7 +33,16 @@
         public int CapacityArray
         {
             get { return capacityArray; }
-            set { capacityArray = value; }
+            set
+            {
+               
+                capacityArray = value;
+
+                if(capacityArray<0)
+                {
+                    throw new ArgumentException("There is no List with Negative lenght ");
+                }
+            }
         }
         //Defining Indexator
         public T this[int indexer]
@@ -119,16 +128,33 @@
         //add elements
         public void Add(T itme)
         {
-
+            
             this.Arrailist.SetValue(itme, LastIndexValue);
             this.LastIndexValue++;
 
+            if(LastIndexValue>=this.CapacityArray)
+            {
+                AutGrow();
+            }
         }
 
+        //AoutoGrow
+        public void AutGrow()
+        {
+            if(this.LastIndexValue>=this.CapacityArray)
+            {
+                this.capacityArray *= 2;
+                T[] doubleArray=(T[])this.Arrailist.Clone();
+                this.Arrailist = new T[this.CapacityArray];
+                Array.Copy(doubleArray, this.Arrailist, doubleArray.Length);
+            }
+        }
         public override string ToString()
         {
             var result = this.Arrailist;
             return string.Join(",", result);
         }
+
+       
     }
 }
