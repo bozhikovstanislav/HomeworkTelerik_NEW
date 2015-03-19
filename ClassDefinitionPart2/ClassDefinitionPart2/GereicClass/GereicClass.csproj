@@ -43,6 +43,7 @@
   <ItemGroup>
     <Compile Include="GenericList.cs" />
     <Compile Include="GenericTestClass.cs" />
+    <Compile Include="Matrix.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
