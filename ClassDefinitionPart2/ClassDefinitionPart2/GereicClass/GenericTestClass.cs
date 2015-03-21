@@ -19,7 +19,7 @@
            //Console.WriteLine(lista.CapacityArray);
            Console.WriteLine(lista.Min());
 
-           Matrix<int> myIntMatrix = new Matrix<int>();
+           Matrix<double> myIntMatrix = new Matrix<double>();
 
            myIntMatrix.MatrixArray.SetValue(1, 0, 0);
            myIntMatrix.MatrixArray.SetValue(10, 0, 1);
@@ -27,10 +27,9 @@
            
            Console.WriteLine(myIntMatrix[0, 0]);
            Console.WriteLine(myIntMatrix[0, 1]); 
-            Console.WriteLine(myIntMatrix[1, 0]);
+           Console.WriteLine(myIntMatrix[1, 0]);
 
-
-
+       
            //lista.clearList();
            //Console.WriteLine(lista.getValue(1).ToString());
 
