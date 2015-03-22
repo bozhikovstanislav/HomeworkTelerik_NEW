@@ -1,7 +1,7 @@
 ﻿namespace GereicClass
 {
     using System;
-    
+    [CustomAtribute(2, 11)]
     public class Matrix<T>
         where T :  IComparable, IComparable<T>, IEquatable<T>,IFormattable,IFormatProvider
     {
@@ -85,11 +85,103 @@
                 throw new ApplicationException("Matrixes don`t match operator+ requirements!");
             }
         }
-        public static Matrix<T> operator +(Matrix<T> matrixOne, Matrix<T> matrixTwo)
+        public static Matrix<T> operator +(Matrix<T> matrix1, Matrix<T> matrix2)
         {
 
+            try
+            {
+                int row = matrix1.Rows;
+                int coll = matrix1.Cols;
+                Matrix<T> newmatrix = new Matrix<T>(coll, row);
+
+                for (int i = 0; i < coll; i++)
+                {
+                    for (int k = 0; k < row; k++)
+                    {
+                        dynamic matr1 = matrix1[k, i];
+                        dynamic matr2 = matrix2[k, i];
+                        newmatrix[i, k] = matr2 + matr1;
+                    }
+                }
+                return newmatrix;
+            }
+            catch (ApplicationException e)
+            {
+
+                throw new IndexOutOfRangeException(
+                            String.Format("Error massage {0}", e.Message));
+            }
+        }
+        public static Matrix<T> operator -(Matrix<T> matrix1, Matrix<T> matrix2)
+        {
+            try
+            {
+                int row = matrix1.Rows;
+                int coll = matrix1.Cols;
+                Matrix<T> newmatrix = new Matrix<T>(coll, row);
+
+                for (int i = 0; i < coll; i++)
+                {
+                    for (int k = 0; k < row; k++)
+                    {
+                        dynamic matr1 = matrix1[k, i];
+                        dynamic matr2 = matrix2[k, i];
+                        newmatrix[i, k] = matr2 - matr1;
+                    }
+                }
+                return newmatrix;
+            }
+            catch (ApplicationException e)
+            {
+
+                throw new IndexOutOfRangeException(
+                            String.Format("Error massage {0}", e.Message));
+            }
+
+        }
+        public static Matrix<T> operator *(Matrix<T> matrix1, Matrix<T> matrix2)
+        {
+            try
+            {
+                int row = matrix1.Rows;
+                int coll = matrix1.Cols;
+                Matrix<T> newmatrix = new Matrix<T>(coll, row);
+
+                for (int i = 0; i < coll; i++)
+                {
+                    for (int k = 0; k < row; k++)
+                    {
+                        dynamic matr1 = matrix1[k, i];
+                        dynamic matr2 = matrix2[k, i];
+                        newmatrix[i, k] = matr2 * matr1;
+                    }
+                }
+                return newmatrix;
+            }
+            catch (ApplicationException e)
+            {
+
+                throw new IndexOutOfRangeException(
+                            String.Format("Error massage {0}", e.Message));
+            }
 
 
         }
+        [CustomAtribute(1, 9)]
+        public static bool operator true(Matrix<T> matrix1)
+        {
+            int row = matrix1.Rows;
+            int coll = matrix1.Cols;
+            return matrix1[coll, row] != null;
+        }
+        public static bool operator false(Matrix<T> matrix1)
+        {
+            int row = matrix1.Rows;
+            int coll = matrix1.Cols;
+            return matrix1[coll, row] == null;
+        }
+
     }
+
+
 }

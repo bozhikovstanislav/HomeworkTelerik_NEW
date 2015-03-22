@@ -41,6 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CustomAtribute.cs" />
     <Compile Include="GenericList.cs" />
     <Compile Include="GenericTestClass.cs" />
     <Compile Include="Matrix.cs" />
