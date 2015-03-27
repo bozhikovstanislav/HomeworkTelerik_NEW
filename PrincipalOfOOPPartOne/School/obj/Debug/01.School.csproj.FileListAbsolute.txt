@@ -1,0 +1,5 @@
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\PrincipalOfOOPPartOne\School\obj\Debug\01.School.csprojResolveAssemblyReference.cache
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\PrincipalOfOOPPartOne\School\bin\Debug\School.dll
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\PrincipalOfOOPPartOne\School\bin\Debug\School.pdb
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\PrincipalOfOOPPartOne\School\obj\Debug\School.dll
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\PrincipalOfOOPPartOne\School\obj\Debug\School.pdb
