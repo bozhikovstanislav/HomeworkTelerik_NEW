@@ -33,9 +33,11 @@
             set { weekSekary = value; }
         }
 
-        public void MoneyPerHour()
+        public decimal MoneyPerHour()
         {
-
+            decimal weackSalary = decimal.Parse(weekSekary.ToString());
+            decimal hoursalary = Math.Round((weackSalary / workHoursPerDay) / 168, 2);
+            return hoursalary;
         }
     }
 }

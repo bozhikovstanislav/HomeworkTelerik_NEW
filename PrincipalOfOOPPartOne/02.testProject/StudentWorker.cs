@@ -51,7 +51,43 @@ namespace _02.testProject
             workerList.Add(new Worker("Maia", "Novoselska", 55.87M, 6.99M));
             workerList.Add(new Worker("Sara", "Brown", 1004, 4.9M));
 
-            //var listofWorkers = 
+            var listofWorkers = workerList.OrderBy(w => w.MoneyPerHour());
+
+            foreach(Worker Worker in listofWorkers)
+            {
+                Console.WriteLine("\n------------------------------------" + "\nFirst Name= {0}  Money per Hour ={1}", Worker.FirstName, Worker.MoneyPerHour());
+            }
+            List<Human> humanlist = new List<Human>
+            {
+                   new Student("Georgi", "Dimitrov", 2),
+                 new Student("Gergana", "Stoimenova", 5),
+                 new Student("Maria", "Petrova", 5),
+                 new Student("Stanismir", "Lazarov", 6),
+                new Student("Nikolai", "Motkurov", 6),
+                new Student("Katia", "Velikova", 3),
+                new Student("Valentina", "Dimitrova", 4),
+                 new Student("Zdravko", "Zdravkov", 3),
+                 new Student("Zahari", "Panajotov", 2),
+                 new Student("Ivancho", "Mariikov", 4),
+                   new Worker("Stanimir","Georgiev",145.4M,23),
+                 new Worker("Galia","Petrova",250.4M,23),
+                  new Worker("Atanas","Pyrvanov",300.4M,13),
+                   new Worker("Georgi","Ivanov",145.4M,6),
+                    new Worker("Stoil","Novobranski",134.4M,3),
+                     new Worker("Hristo","Iwanov",188.4M,2),
+                      new Worker("Maria","Hubawata",256.4M,3),
+                       new Worker("Kalin","GreenTeam",167.4M,8),
+                        new Worker("Petrana","Nikolova",254.5M,2),
+                         new Worker("STanislav","Hadjikostov",265.3M,9)
+            };
+            var human = humanlist.OrderByDescending(h => h.FirstName).ThenBy(h => h.LastName);
+
+            foreach (var item in human)
+            {
+
+                Console.WriteLine("\n------------------------------------" + "\n First Name= {0}  Possition={1}", item.FirstName, item.GetType().Name);
+
+            }
 
         }
     }
