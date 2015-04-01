@@ -1,1 +1,2 @@
 C:\Users\Stanislav\Documents\GitHub\HomeworkTelerik\C#Part2\Array\01. Allocate array\bin\Debug\_01.Allocate_array.exe.config
+C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\C#Part2\Array\01. Allocate array\bin\Debug\_01.Allocate_array.exe.config

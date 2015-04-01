@@ -1,5 +1,0 @@
-C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\PrincipalOfOOPPartOne\02.StudentAndWorkers\bin\Debug\02.StudentAndWorkers.dll
-C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\PrincipalOfOOPPartOne\02.StudentAndWorkers\bin\Debug\02.StudentAndWorkers.pdb
-C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\PrincipalOfOOPPartOne\02.StudentAndWorkers\obj\Debug\02.StudentAndWorkers.dll
-C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\PrincipalOfOOPPartOne\02.StudentAndWorkers\obj\Debug\02.StudentAndWorkers.pdb
-C:\Users\Stanislav\Documents\HomeworkTelerik_NEW\PrincipalOfOOPPartOne\02.StudentAndWorkers\obj\Debug\02.StudentAndWorkers.csprojResolveAssemblyReference.cache

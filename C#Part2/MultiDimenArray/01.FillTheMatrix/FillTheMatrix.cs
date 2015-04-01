@@ -136,12 +136,12 @@ class FillTheMatrix
 
         int[] arr =
         {
-            3,2,1,0
+           5,4,3,2,1,0
         };
 
         int[] diagArray =
         {
-            0,1,2,3,4,5,6,7,8
+            0,1,2,3,4,5,6,7,8,9,10,11,12
         };
 
 
@@ -213,10 +213,14 @@ class FillTheMatrix
         {
             Console.Write(item);
         }
-        int[,] arrDiagArr = new int[4,4];
-        for (int i = 0; i < arrDiagArr.Length; i++)
+        int[,] arrDiagArr = new int[6,7];
+        for (int i = 0; i < arrDiagArr.GetLength(0); i++)
         {
-            arrDiagArr[arr2RowIndex[i], arr2[i]] = i+1;
+            for (int j = 0; j < arrDiagArr.GetLength(1); j++)
+            {
+                 arrDiagArr[arr2RowIndex[i], arr2[j]] = i;
+            }
+           
         }
 
        
@@ -244,61 +248,64 @@ class FillTheMatrix
 
 ";
 
-        int[,] spiral = new int[n, n];
+        int[,] spiral = new int[6, 7];
 
         string dirction = "down";
 
         int curentRow = 0;
         int curentCol = 0;
 
-        for (int i = 1; i <= n*n; i++)
+        for (int row = 1; row <= 6; row++)
         {
-            if(dirction=="down" && (curentRow>=n || spiral[curentRow,curentCol]!=0))
+            for (int col = 0; col < 7; col++)
             {
-                curentCol++;
-                curentRow--;
-                dirction = "right";
-            }
-            else if(dirction=="right"&& (curentCol>=n|| spiral[curentRow,curentCol]!=0))
-            { 
-                curentRow--;
-                curentCol--;
-                dirction = "up";
-               
-            }
-            else if(dirction=="up" && (curentRow<0|| spiral[curentRow,curentCol]!=0))
-            { 
-                curentCol--;
-                curentRow++;
-                dirction = "left";
 
-            }
-            else if(dirction=="left" &&(curentCol<0|| spiral[curentRow,curentCol]!=0))
-            {
-                curentRow++;
-                curentCol++;
-                
-                dirction = "down";
-            }
-            spiral[curentRow, curentCol] = i;
+                if (dirction == "down" && (curentRow >= n || spiral[curentRow, curentCol] != 0))
+                {
+                    curentCol++;
+                    curentRow--;
+                    dirction = "right";
+                }
+                else if (dirction == "right" && (curentCol >= n || spiral[curentRow, curentCol] != 0))
+                {
+                    curentRow--;
+                    curentCol--;
+                    dirction = "up";
 
-            if(dirction=="down")
-            {
-                curentRow++;
-            }
-            else if(dirction=="right")
-            {
-                curentCol++;
-            }
-            else if(dirction=="up")
-            {
-                curentRow--;
-            }
-            else if(dirction=="left")
-            {
-                curentCol--;
-            }
+                }
+                else if (dirction == "up" && (curentRow < 0 || spiral[curentRow, curentCol] != 0))
+                {
+                    curentCol--;
+                    curentRow++;
+                    dirction = "left";
 
+                }
+                else if (dirction == "left" && (curentCol < 0 || spiral[curentRow, curentCol] != 0))
+                {
+                    curentRow++;
+                    curentCol++;
+
+                    dirction = "down";
+                }
+                spiral[curentRow, curentCol] = i;
+
+                if (dirction == "down")
+                {
+                    curentRow++;
+                }
+                else if (dirction == "right")
+                {
+                    curentCol++;
+                }
+                else if (dirction == "up")
+                {
+                    curentRow--;
+                }
+                else if (dirction == "left")
+                {
+                    curentCol--;
+                }
+            }
         }
 
 
@@ -352,9 +359,9 @@ class FillTheMatrix
         Console.WriteLine();
 
 
-        for (int i = 0; i < n; i++)
+        for (int i = 0; i < 6; i++)
         {
-            for (int j = 0; j < n; j++)
+            for (int j = 0; j < 7; j++)
             {
                 Console.Write(spiral[i, j]+" " );
             }
@@ -367,11 +374,11 @@ class FillTheMatrix
         Console.WriteLine();
 
         int n1 = int.Parse(Console.ReadLine());
-        int[,] matrix = new int[n1, n1];
+        int[,] matrix = new int[6, 7];
         int counter = 1;
         int rowBackCounter = 1;
         int colBackCounter = 0;
-        int maxCount = n1 * n1;
+        int maxCount = 6 * 7;
 
         for (int row = matrix.GetLength(0) - 1; row >= 0; row--)
         {
@@ -406,9 +413,9 @@ class FillTheMatrix
             }
         }
         //print matrix
-        for (int i = 0; i < n1; i++)
+        for (int i = 0; i < 6; i++)
         {
-            for (int j = 0; j < n1; j++)
+            for (int j = 0; j < 7; j++)
             {
                 Console.Write("{0,4}", matrix[i, j]);
             }
