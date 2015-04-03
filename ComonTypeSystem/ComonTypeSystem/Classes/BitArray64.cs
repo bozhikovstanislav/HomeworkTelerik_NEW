@@ -1,14 +1,9 @@
-﻿
-
-namespace ComonTypeSystem.Classes
+﻿namespace ComonTypeSystem.Classes
 {
-    using System;
     using System.Collections;
     using System.Collections.Generic;
-    using System.Linq;
-    using System.Text;
-    using System.Threading.Tasks;
-    public class BitArray64:IEnumerable<int>
+
+    public class BitArray64 : IEnumerable<int>
     {
         private ulong[] numbers;
 
@@ -22,7 +17,6 @@ namespace ComonTypeSystem.Classes
         {
             this.numbers = arr;
         }
-       
 
         public override bool Equals(object obj)
         {
@@ -44,8 +38,8 @@ namespace ComonTypeSystem.Classes
             {
                 yield return item;
             }
-
         }
+
         IEnumerator IEnumerable.GetEnumerator()
         {
             return this.GetEnumerator();
@@ -97,9 +91,5 @@ namespace ComonTypeSystem.Classes
         {
             return !bit1.Equals(bit2);
         }
-
-
-
-
     }
 }
